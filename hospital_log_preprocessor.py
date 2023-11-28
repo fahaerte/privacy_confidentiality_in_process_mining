@@ -2,12 +2,16 @@ import pm4py
 import pandas as pd
 import requests
 import utility
-import os
+
 
 def import_xes(file_path):
     event_log = pm4py.read_xes(file_path)
     event_log['time:timestamp'] = pd.to_datetime(event_log['time:timestamp'], utc=True)
     return event_log
+
+
+def export_xes(event_log, file_path):
+    pm4py.write_xes(event_log, file_path, case_id_key='case:concept:name')
 
 
 def translate_text(text_to_translate, url, auth_key):
@@ -41,8 +45,12 @@ def translate_durch_to_english(event_log, url, auth_key):
     
     return concept_names_translations
 
+def apply_translation_to_process_log(event_log, trans_dict):
+    event_log['concept:name'] = event_log['concept:name'].replace(trans_dict)
+    return event_log
 
-if __name__ == '__main__':
+
+def preprocess_log_and_save_to_file():
     settings = utility.read_variables_from_file('settings.ini')
     import_path = settings.get('import_path', '')
     export_path = settings.get('export_path', '')
@@ -50,6 +58,10 @@ if __name__ == '__main__':
     deepl_auth_key = settings.get('deepl_auth_key', '')
 
     event_log = import_xes(import_path)
+
     translations_dict = translate_durch_to_english(event_log, url=deepl_url, auth_key=deepl_auth_key)
-    event_log['concept:name'] = event_log['concept:name'].replace(translations_dict)
-    pm4py.write_xes(event_log, export_path, case_id_key='case:concept:name')
+    event_log = apply_translation_to_process_log(event_log, translations_dict)
+
+    export_xes(event_log, export_path)
+
+    return event_log
