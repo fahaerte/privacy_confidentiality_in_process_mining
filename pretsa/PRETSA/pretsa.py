@@ -6,6 +6,7 @@ from scipy.stats import normaltest
 import pandas as pd
 import numpy as np
 import time
+import pm4py
 
 class Pretsa:
     def __init__(self,eventLog):
@@ -15,7 +16,7 @@ class Pretsa:
         caseToSequenceDict = dict()
         sequence = None
         self.__caseIDColName = "case:concept:name"
-        self.__activityColName = "Activity code"
+        self.__activityColName = "concept:name"
         self.__annotationColName = "Duration"
         self.__constantEventNr = "Event_Nr"
         self.__annotationDataOverAll = dict()
@@ -285,8 +286,34 @@ class Pretsa:
             upperLimitsBuckets.append(overallDistribution[min(round(i*divider),len(overallDistribution)-1)])
         return upperLimitsBuckets
 
+def import_xes(file_path):
+    event_log = pm4py.read_xes(file_path)
+    event_log['time:timestamp'] = pd.to_datetime(event_log['time:timestamp'], utc=True)
+    return event_log
+
 
 if __name__ == "__main__":
-    filePath = 'master-thesis/data/Hospital_log.csv'
-    eventLog = pd.read_csv(filePath, delimiter=",", low_memory=False)
-    pretsa = Pretsa(eventLog)
+    file_name = 'Sepsis'
+    input_dir = '../../data/'
+    output_dir = 'output/'
+    ks = range(1, 10)
+    ts = np.arange(0.1, 1.0, 0.1)
+    event_log = import_xes(input_dir + file_name + '.xes')
+    event_log = event_log.sort_values(['case:concept:name', 'time:timestamp'])
+    event_log['Duration'] = event_log.groupby('case:concept:name')['time:timestamp'].diff().fillna(pd.Timedelta(seconds=0))
+    event_log['Duration'] = event_log['Duration'].dt.total_seconds().div(60).astype(int)
+    print(event_log[['case:concept:name', 'concept:name', 'time:timestamp', 'Duration']])
+
+    pretsa = Pretsa(event_log)
+    for k in ks:
+        for t in ts:
+            print("k: {} t: {} --start--".format(k, t))
+            cutOutCases = pretsa.runPretsa(k=k, t=t)
+            privateEventLog = pretsa.getPrivatisedEventLog()
+            privateEventLog['Duration'] = privateEventLog['Duration'].astype(int)
+            result = pd.merge(privateEventLog, event_log, how='left', on=['case:concept:name', 'concept:name', 'Duration'])
+
+            print(result)
+            pm4py.write_xes(result, file_path='{}{}_privatized_k={}_t={}'.format(output_dir, file_name, k, t))
+            print('done\n\n')
+
