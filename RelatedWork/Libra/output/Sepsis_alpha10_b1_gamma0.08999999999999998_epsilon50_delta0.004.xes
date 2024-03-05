@@ -1,0 +1,1990 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<log>
+  <string key="origin" value="csv"/>
+  <trace>
+    <string key="concept:name" value="ID0"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-08-25T06:41:45.000+00:00"/>
+      <date key="org_timestamp" value="2014-08-25T10:20:55.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-08-25T07:20:32.000+00:00"/>
+      <date key="org_timestamp" value="2014-08-25T10:58:42.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-08-25T07:20:56.000+00:00"/>
+      <date key="org_timestamp" value="2014-08-25T10:59:02.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="OF0"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-04-09T05:55:57.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-09T09:43:42.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-04-09T05:58:13.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-09T09:45:43.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-04-09T05:59:03.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-09T09:46:15.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="UH0"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-12-14T18:53:58.000+00:00"/>
+      <date key="org_timestamp" value="2014-12-14T21:41:23.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-12-14T19:02:30.000+00:00"/>
+      <date key="org_timestamp" value="2014-12-14T21:49:54.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-12-14T19:03:02.000+00:00"/>
+      <date key="org_timestamp" value="2014-12-14T21:50:30.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="UEA0"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-09-06T19:14:07.000+00:00"/>
+      <date key="org_timestamp" value="2014-09-07T15:23:45.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-09-06T19:33:36.000+00:00"/>
+      <date key="org_timestamp" value="2014-09-07T15:42:10.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-09-06T19:34:49.000+00:00"/>
+      <date key="org_timestamp" value="2014-09-07T15:43:03.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="FFA0"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2015-01-21T17:48:19.000+00:00"/>
+      <date key="org_timestamp" value="2015-01-20T23:14:49.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2015-01-21T17:54:17.000+00:00"/>
+      <date key="org_timestamp" value="2015-01-20T23:20:06.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2015-01-21T17:54:54.000+00:00"/>
+      <date key="org_timestamp" value="2015-01-20T23:21:17.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="VH0"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-07-12T13:34:40.000+00:00"/>
+      <date key="org_timestamp" value="2014-07-11T18:51:00.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-07-12T13:47:39.000+00:00"/>
+      <date key="org_timestamp" value="2014-07-11T19:03:42.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-07-12T13:56:33.000+00:00"/>
+      <date key="org_timestamp" value="2014-07-11T19:10:52.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-07-12T14:06:44.000+00:00"/>
+      <date key="org_timestamp" value="2014-07-11T19:21:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-07-12T14:05:29.000+00:00"/>
+      <date key="org_timestamp" value="2014-07-11T19:21:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="WMA0"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-04-18T16:26:44.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-17T13:29:26.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-04-18T17:14:54.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-17T14:17:53.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-04-18T17:15:15.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-17T14:18:40.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-04-18T17:41:33.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-17T14:46:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-04-18T17:41:42.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-17T14:46:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="280"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-04-17T14:40:27.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-17T13:29:26.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-04-17T15:28:10.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-17T14:17:53.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-04-17T15:28:28.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-17T14:18:40.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-04-17T15:55:19.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-17T14:46:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-04-17T15:55:35.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-17T14:46:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="260"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-07-11T08:55:09.000+00:00"/>
+      <date key="org_timestamp" value="2014-07-11T18:51:00.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-07-11T09:08:33.000+00:00"/>
+      <date key="org_timestamp" value="2014-07-11T19:03:42.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-07-11T09:14:41.000+00:00"/>
+      <date key="org_timestamp" value="2014-07-11T19:10:52.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-07-11T09:24:13.000+00:00"/>
+      <date key="org_timestamp" value="2014-07-11T19:21:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-07-11T09:24:26.000+00:00"/>
+      <date key="org_timestamp" value="2014-07-11T19:21:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="OF1"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-04-09T23:08:21.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-09T09:43:42.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-04-09T23:09:43.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-09T09:45:43.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-04-09T23:11:02.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-09T09:46:15.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="OJA1"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-07-30T00:46:07.000+00:00"/>
+      <date key="org_timestamp" value="2014-07-30T08:42:26.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-07-30T00:53:56.000+00:00"/>
+      <date key="org_timestamp" value="2014-07-30T08:50:48.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-07-30T02:01:28.000+00:00"/>
+      <date key="org_timestamp" value="2014-07-30T09:57:43.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="DIA1"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-09-13T05:01:03.000+00:00"/>
+      <date key="org_timestamp" value="2014-09-13T19:00:25.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-09-13T05:04:35.000+00:00"/>
+      <date key="org_timestamp" value="2014-09-13T19:03:08.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-09-13T05:05:07.000+00:00"/>
+      <date key="org_timestamp" value="2014-09-13T19:03:31.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-09-13T05:17:13.000+00:00"/>
+      <date key="org_timestamp" value="2014-09-13T19:16:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-09-13T05:16:55.000+00:00"/>
+      <date key="org_timestamp" value="2014-09-13T19:16:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="ENA1"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-11-20T04:33:16.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-20T08:25:52.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-11-20T04:53:05.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-20T08:45:18.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-11-20T04:53:50.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-20T08:45:39.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-11-20T05:05:49.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-20T08:57:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-11-20T05:06:02.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-20T08:57:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="UN1"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-06-30T06:59:52.000+00:00"/>
+      <date key="org_timestamp" value="2014-06-29T11:28:45.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-06-30T07:07:04.000+00:00"/>
+      <date key="org_timestamp" value="2014-06-29T11:36:12.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-06-30T07:21:25.000+00:00"/>
+      <date key="org_timestamp" value="2014-06-29T11:50:50.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-06-30T07:23:59.000+00:00"/>
+      <date key="org_timestamp" value="2014-06-29T11:53:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-06-30T07:24:27.000+00:00"/>
+      <date key="org_timestamp" value="2014-06-29T11:53:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="JP1"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-05-03T09:27:45.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-03T18:14:32.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-05-03T09:35:12.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-03T18:22:17.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-05-03T09:36:38.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-03T18:22:34.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-05-03T09:41:16.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-03T18:26:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-05-03T09:41:14.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-03T18:26:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="UCA1"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-08-09T11:36:33.000+00:00"/>
+      <date key="org_timestamp" value="2014-08-11T07:46:45.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-08-09T11:49:18.000+00:00"/>
+      <date key="org_timestamp" value="2014-08-11T07:58:19.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-08-09T11:49:18.000+00:00"/>
+      <date key="org_timestamp" value="2014-08-11T07:58:32.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-08-09T12:22:13.000+00:00"/>
+      <date key="org_timestamp" value="2014-08-11T08:31:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-08-09T12:22:51.000+00:00"/>
+      <date key="org_timestamp" value="2014-08-11T08:31:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="UH2"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-12-14T08:37:28.000+00:00"/>
+      <date key="org_timestamp" value="2014-12-14T21:41:23.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-12-14T08:45:09.000+00:00"/>
+      <date key="org_timestamp" value="2014-12-14T21:49:54.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-12-14T08:45:07.000+00:00"/>
+      <date key="org_timestamp" value="2014-12-14T21:50:30.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="KDA2"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-05-11T09:24:13.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-11T12:09:29.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-05-11T09:36:09.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-11T12:21:10.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-05-11T09:36:05.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-11T12:21:21.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="UEA2"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-09-07T17:48:24.000+00:00"/>
+      <date key="org_timestamp" value="2014-09-07T15:23:45.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-09-07T18:06:07.000+00:00"/>
+      <date key="org_timestamp" value="2014-09-07T15:42:10.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-09-07T18:06:28.000+00:00"/>
+      <date key="org_timestamp" value="2014-09-07T15:43:03.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="BC2"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2015-02-08T16:30:50.000+00:00"/>
+      <date key="org_timestamp" value="2015-02-07T14:14:13.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2015-02-08T16:59:46.000+00:00"/>
+      <date key="org_timestamp" value="2015-02-07T14:43:50.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2015-02-08T17:01:14.000+00:00"/>
+      <date key="org_timestamp" value="2015-02-07T14:45:17.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2015-02-08T17:40:32.000+00:00"/>
+      <date key="org_timestamp" value="2015-02-07T15:23:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2015-02-08T17:40:17.000+00:00"/>
+      <date key="org_timestamp" value="2015-02-07T15:23:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="PP2"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-03-07T08:59:03.000+00:00"/>
+      <date key="org_timestamp" value="2014-03-06T22:29:07.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-03-07T09:00:48.000+00:00"/>
+      <date key="org_timestamp" value="2014-03-06T22:30:36.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-03-07T09:01:07.000+00:00"/>
+      <date key="org_timestamp" value="2014-03-06T22:30:53.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-03-07T09:07:13.000+00:00"/>
+      <date key="org_timestamp" value="2014-03-06T22:37:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-03-07T09:07:11.000+00:00"/>
+      <date key="org_timestamp" value="2014-03-06T22:37:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="RA3"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-10-09T10:02:21.000+00:00"/>
+      <date key="org_timestamp" value="2014-10-07T12:52:25.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-10-09T10:49:06.000+00:00"/>
+      <date key="org_timestamp" value="2014-10-07T13:38:18.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-10-09T10:49:16.000+00:00"/>
+      <date key="org_timestamp" value="2014-10-07T13:38:32.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="HU3"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-02-02T17:03:46.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-01T20:08:54.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-02-02T17:14:48.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-01T20:20:13.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-02-02T17:16:18.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-01T20:20:30.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="DMA3"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-05-02T01:18:01.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-02T15:08:18.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-05-02T01:33:56.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-02T15:26:11.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-05-02T01:35:53.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-02T15:28:02.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="JNA3"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-11-12T13:15:31.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-12T16:40:19.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-11-12T13:21:39.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-12T16:47:25.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-11-12T13:21:13.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-12T16:47:39.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="VX3"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-01-31T08:04:23.000+00:00"/>
+      <date key="org_timestamp" value="2014-01-29T15:19:33.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-01-31T08:09:02.000+00:00"/>
+      <date key="org_timestamp" value="2014-01-29T15:24:11.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-01-31T08:09:22.000+00:00"/>
+      <date key="org_timestamp" value="2014-01-29T15:24:42.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-01-31T08:18:37.000+00:00"/>
+      <date key="org_timestamp" value="2014-01-29T15:35:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-01-31T08:18:59.000+00:00"/>
+      <date key="org_timestamp" value="2014-01-29T15:35:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="KY3"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-11-13T02:27:34.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-12T20:27:21.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-11-13T02:37:14.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-12T20:37:26.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-11-13T02:37:37.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-12T20:37:53.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-11-13T02:46:24.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-12T20:46:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-11-13T02:46:15.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-12T20:46:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="ICA3"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2013-12-21T00:23:17.000+00:00"/>
+      <date key="org_timestamp" value="2013-12-21T10:27:15.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2013-12-21T00:27:07.000+00:00"/>
+      <date key="org_timestamp" value="2013-12-21T10:31:14.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2013-12-21T00:27:43.000+00:00"/>
+      <date key="org_timestamp" value="2013-12-21T10:32:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2013-12-21T00:37:51.000+00:00"/>
+      <date key="org_timestamp" value="2013-12-21T10:42:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2013-12-21T00:37:53.000+00:00"/>
+      <date key="org_timestamp" value="2013-12-21T10:42:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="UEA4"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-09-07T09:44:20.000+00:00"/>
+      <date key="org_timestamp" value="2014-09-07T15:23:45.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-09-07T10:02:32.000+00:00"/>
+      <date key="org_timestamp" value="2014-09-07T15:42:10.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-09-07T10:04:54.000+00:00"/>
+      <date key="org_timestamp" value="2014-09-07T15:43:03.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="NQ4"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-06-03T12:59:51.000+00:00"/>
+      <date key="org_timestamp" value="2014-06-03T15:36:30.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-06-03T13:16:05.000+00:00"/>
+      <date key="org_timestamp" value="2014-06-03T15:52:49.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-06-03T13:17:13.000+00:00"/>
+      <date key="org_timestamp" value="2014-06-03T15:53:35.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-06-03T13:30:37.000+00:00"/>
+      <date key="org_timestamp" value="2014-06-03T16:07:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-06-03T13:30:53.000+00:00"/>
+      <date key="org_timestamp" value="2014-06-03T16:07:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="VH4"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-07-10T23:00:00.000+00:00"/>
+      <date key="org_timestamp" value="2014-07-11T18:51:00.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-07-10T23:11:56.000+00:00"/>
+      <date key="org_timestamp" value="2014-07-11T19:03:42.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-07-10T23:19:24.000+00:00"/>
+      <date key="org_timestamp" value="2014-07-11T19:10:52.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-07-10T23:29:49.000+00:00"/>
+      <date key="org_timestamp" value="2014-07-11T19:21:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-07-10T23:28:45.000+00:00"/>
+      <date key="org_timestamp" value="2014-07-11T19:21:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="JP4"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-05-04T12:38:28.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-03T18:14:32.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-05-04T12:45:36.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-03T18:22:17.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-05-04T12:46:35.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-03T18:22:34.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-05-04T12:50:02.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-03T18:26:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-05-04T12:50:08.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-03T18:26:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="PP4"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-03-07T19:14:03.000+00:00"/>
+      <date key="org_timestamp" value="2014-03-06T22:29:07.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-03-07T19:13:36.000+00:00"/>
+      <date key="org_timestamp" value="2014-03-06T22:30:36.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-03-07T19:13:29.000+00:00"/>
+      <date key="org_timestamp" value="2014-03-06T22:30:53.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-03-07T19:19:58.000+00:00"/>
+      <date key="org_timestamp" value="2014-03-06T22:37:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-03-07T19:18:57.000+00:00"/>
+      <date key="org_timestamp" value="2014-03-06T22:37:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="CIA4"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-04-27T18:43:27.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-26T18:23:08.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-04-27T19:42:27.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-26T19:21:58.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-04-27T19:42:23.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-26T19:22:15.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-04-27T19:54:32.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-26T19:34:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-04-27T19:54:59.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-26T19:34:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="MLA4"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-02-11T08:28:05.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-11T20:48:17.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-02-11T08:42:34.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-11T21:01:59.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-02-11T08:43:06.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-11T21:02:23.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-02-11T08:53:15.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-11T21:13:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-02-11T08:52:17.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-11T21:13:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="ID5"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-08-25T05:11:03.000+00:00"/>
+      <date key="org_timestamp" value="2014-08-25T10:20:55.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-08-25T05:48:53.000+00:00"/>
+      <date key="org_timestamp" value="2014-08-25T10:58:42.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-08-25T05:49:01.000+00:00"/>
+      <date key="org_timestamp" value="2014-08-25T10:59:02.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="NAA5"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-12-06T00:09:05.000+00:00"/>
+      <date key="org_timestamp" value="2014-12-06T09:32:35.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-12-06T00:24:36.000+00:00"/>
+      <date key="org_timestamp" value="2014-12-06T09:48:36.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-12-06T00:29:00.000+00:00"/>
+      <date key="org_timestamp" value="2014-12-06T09:51:24.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="OJA5"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-07-30T19:45:41.000+00:00"/>
+      <date key="org_timestamp" value="2014-07-30T08:42:26.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-07-30T19:55:09.000+00:00"/>
+      <date key="org_timestamp" value="2014-07-30T08:50:48.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-07-30T21:01:59.000+00:00"/>
+      <date key="org_timestamp" value="2014-07-30T09:57:43.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="DMA5"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-05-03T03:28:17.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-02T15:08:18.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-05-03T03:45:33.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-02T15:26:11.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-05-03T03:46:29.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-02T15:28:02.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="HMA5"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-02-19T08:19:13.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-19T07:39:43.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-02-19T08:31:08.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-19T07:50:57.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-02-19T08:31:45.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-19T07:51:21.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="PC5"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2013-11-28T03:37:09.000+00:00"/>
+      <date key="org_timestamp" value="2013-11-28T13:27:20.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2013-11-28T03:43:07.000+00:00"/>
+      <date key="org_timestamp" value="2013-11-28T13:33:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2013-11-28T03:44:03.000+00:00"/>
+      <date key="org_timestamp" value="2013-11-28T13:33:20.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2013-11-28T04:48:06.000+00:00"/>
+      <date key="org_timestamp" value="2013-11-28T14:34:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2013-11-28T04:48:49.000+00:00"/>
+      <date key="org_timestamp" value="2013-11-28T14:34:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="GR5"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-11-14T01:37:13.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-14T10:22:26.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-11-14T01:41:44.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-14T10:26:34.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-11-14T01:42:31.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-14T10:27:08.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-11-14T01:47:48.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-14T10:32:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-11-14T01:48:09.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-14T10:32:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="LY6"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-04-12T13:21:41.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-14T18:24:37.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-04-12T13:37:45.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-14T18:39:53.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-04-12T13:40:44.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-14T18:40:40.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="CDA6"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-02-15T16:39:08.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-16T00:58:26.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-02-15T16:40:08.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-16T01:00:11.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-02-15T16:39:49.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-16T01:00:31.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="UEA6"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-09-07T05:41:04.000+00:00"/>
+      <date key="org_timestamp" value="2014-09-07T15:23:45.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-09-07T05:59:20.000+00:00"/>
+      <date key="org_timestamp" value="2014-09-07T15:42:10.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-09-07T05:59:31.000+00:00"/>
+      <date key="org_timestamp" value="2014-09-07T15:43:03.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="AKA6"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-08-02T23:14:29.000+00:00"/>
+      <date key="org_timestamp" value="2014-08-02T13:20:57.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-08-02T23:41:27.000+00:00"/>
+      <date key="org_timestamp" value="2014-08-02T13:47:53.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-08-02T23:42:35.000+00:00"/>
+      <date key="org_timestamp" value="2014-08-02T13:48:09.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="DN6"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2013-11-19T16:16:57.000+00:00"/>
+      <date key="org_timestamp" value="2013-11-19T17:19:38.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2013-11-19T16:18:33.000+00:00"/>
+      <date key="org_timestamp" value="2013-11-19T17:21:10.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2013-11-19T16:19:18.000+00:00"/>
+      <date key="org_timestamp" value="2013-11-19T17:21:33.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2013-11-19T16:26:57.000+00:00"/>
+      <date key="org_timestamp" value="2013-11-19T17:29:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2013-11-19T16:26:47.000+00:00"/>
+      <date key="org_timestamp" value="2013-11-19T17:29:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="ZN6"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-04-08T05:30:45.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-08T11:41:15.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-04-08T05:38:38.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-08T11:49:17.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-04-08T05:39:12.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-08T11:49:58.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-04-08T05:56:12.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-08T12:07:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-04-08T05:56:35.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-08T12:07:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="JP6"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-05-02T07:44:37.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-03T18:14:32.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-05-02T07:52:57.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-03T18:22:17.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-05-02T07:52:51.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-03T18:22:34.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-05-02T07:57:51.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-03T18:26:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-05-02T07:58:13.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-03T18:26:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="P7"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-04-23T00:43:35.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-22T07:39:36.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-04-23T01:08:19.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-22T08:04:49.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-04-23T02:06:14.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-22T09:01:16.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="WD7"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-11-11T14:27:55.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-11T14:26:44.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-11-11T14:50:25.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-11T14:49:22.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-11-11T16:14:14.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-11T16:12:29.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="SP7"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-06-03T08:01:29.000+00:00"/>
+      <date key="org_timestamp" value="2014-06-03T12:14:49.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-06-03T08:20:12.000+00:00"/>
+      <date key="org_timestamp" value="2014-06-03T12:32:52.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-06-03T08:20:29.000+00:00"/>
+      <date key="org_timestamp" value="2014-06-03T12:33:04.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="TY7"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-10-04T04:08:53.000+00:00"/>
+      <date key="org_timestamp" value="2014-10-04T16:52:39.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-10-04T04:53:48.000+00:00"/>
+      <date key="org_timestamp" value="2014-10-04T17:37:03.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-10-04T04:54:13.000+00:00"/>
+      <date key="org_timestamp" value="2014-10-04T17:37:26.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="ZN7"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-04-08T08:11:29.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-08T11:41:15.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-04-08T08:19:52.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-08T11:49:17.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-04-08T08:19:39.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-08T11:49:58.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-04-08T08:36:28.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-08T12:07:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-04-08T08:37:20.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-08T12:07:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="CIA7"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-04-27T01:06:50.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-26T18:23:08.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-04-27T02:05:54.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-26T19:21:58.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-04-27T02:07:34.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-26T19:22:15.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-04-27T02:18:47.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-26T19:34:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-04-27T02:18:49.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-26T19:34:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="M8"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-10-10T09:01:05.000+00:00"/>
+      <date key="org_timestamp" value="2014-10-10T01:08:37.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-10-10T09:03:58.000+00:00"/>
+      <date key="org_timestamp" value="2014-10-10T01:10:38.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-10-10T09:03:19.000+00:00"/>
+      <date key="org_timestamp" value="2014-10-10T01:10:54.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="RV8"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-10-13T15:29:23.000+00:00"/>
+      <date key="org_timestamp" value="2014-10-14T21:06:51.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-10-13T15:50:46.000+00:00"/>
+      <date key="org_timestamp" value="2014-10-14T21:28:18.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-10-13T15:51:10.000+00:00"/>
+      <date key="org_timestamp" value="2014-10-14T21:28:35.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="DN8"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2013-11-19T02:06:49.000+00:00"/>
+      <date key="org_timestamp" value="2013-11-19T17:19:38.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2013-11-19T02:09:18.000+00:00"/>
+      <date key="org_timestamp" value="2013-11-19T17:21:10.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2013-11-19T02:09:34.000+00:00"/>
+      <date key="org_timestamp" value="2013-11-19T17:21:33.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2013-11-19T02:16:50.000+00:00"/>
+      <date key="org_timestamp" value="2013-11-19T17:29:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2013-11-19T02:17:03.000+00:00"/>
+      <date key="org_timestamp" value="2013-11-19T17:29:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="PC8"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2013-11-28T13:13:29.000+00:00"/>
+      <date key="org_timestamp" value="2013-11-28T13:27:20.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2013-11-28T13:18:52.000+00:00"/>
+      <date key="org_timestamp" value="2013-11-28T13:33:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2013-11-28T13:19:14.000+00:00"/>
+      <date key="org_timestamp" value="2013-11-28T13:33:20.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2013-11-28T14:18:59.000+00:00"/>
+      <date key="org_timestamp" value="2013-11-28T14:34:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2013-11-28T14:18:25.000+00:00"/>
+      <date key="org_timestamp" value="2013-11-28T14:34:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="UN8"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-06-29T16:36:03.000+00:00"/>
+      <date key="org_timestamp" value="2014-06-29T11:28:45.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-06-29T16:43:19.000+00:00"/>
+      <date key="org_timestamp" value="2014-06-29T11:36:12.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-06-29T16:57:15.000+00:00"/>
+      <date key="org_timestamp" value="2014-06-29T11:50:50.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-06-29T16:58:46.000+00:00"/>
+      <date key="org_timestamp" value="2014-06-29T11:53:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-06-29T16:57:03.000+00:00"/>
+      <date key="org_timestamp" value="2014-06-29T11:53:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="VHA8"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-01-31T17:08:48.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-01T16:00:00.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-01-31T17:18:32.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-01T16:09:38.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-01-31T17:18:51.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-01T16:10:04.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-01-31T17:29:39.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-01T16:21:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-01-31T17:29:46.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-01T16:21:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="KDA9"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-05-12T04:15:10.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-11T12:09:29.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-05-12T04:26:48.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-11T12:21:10.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-05-12T04:27:11.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-11T12:21:21.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="XMA9"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-05-18T00:18:36.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-17T22:13:33.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-05-18T00:29:43.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-17T22:26:44.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-05-18T00:29:01.000+00:00"/>
+      <date key="org_timestamp" value="2014-05-17T22:26:56.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="LNA9"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-12-03T15:04:51.000+00:00"/>
+      <date key="org_timestamp" value="2014-12-03T09:50:28.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-12-03T15:07:52.000+00:00"/>
+      <date key="org_timestamp" value="2014-12-03T09:54:19.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-12-03T15:07:50.000+00:00"/>
+      <date key="org_timestamp" value="2014-12-03T09:54:39.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="CK9"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-01-28T09:37:38.000+00:00"/>
+      <date key="org_timestamp" value="2014-01-29T01:42:25.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-01-28T09:48:41.000+00:00"/>
+      <date key="org_timestamp" value="2014-01-29T01:53:20.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-01-28T09:56:07.000+00:00"/>
+      <date key="org_timestamp" value="2014-01-29T02:00:23.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-01-28T10:05:03.000+00:00"/>
+      <date key="org_timestamp" value="2014-01-29T02:09:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-01-28T10:03:31.000+00:00"/>
+      <date key="org_timestamp" value="2014-01-29T02:09:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="KY9"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-11-13T15:27:26.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-12T20:27:21.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-11-13T15:37:28.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-12T20:37:26.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-11-13T15:38:25.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-12T20:37:53.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-11-13T15:46:54.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-12T20:46:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-11-13T15:46:52.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-12T20:46:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="AM9"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-02-17T02:47:48.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-17T13:29:57.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-02-17T02:51:49.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-17T13:34:03.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-02-17T02:51:21.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-17T13:34:20.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-02-17T03:06:24.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-17T13:50:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-02-17T03:06:28.000+00:00"/>
+      <date key="org_timestamp" value="2014-02-17T13:50:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="TT9"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-08-04T08:09:20.000+00:00"/>
+      <date key="org_timestamp" value="2014-08-05T15:03:03.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-08-04T08:17:01.000+00:00"/>
+      <date key="org_timestamp" value="2014-08-05T15:12:05.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-08-04T08:18:10.000+00:00"/>
+      <date key="org_timestamp" value="2014-08-05T15:12:55.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-08-04T08:39:52.000+00:00"/>
+      <date key="org_timestamp" value="2014-08-05T15:34:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-08-04T08:39:58.000+00:00"/>
+      <date key="org_timestamp" value="2014-08-05T15:34:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="XA10"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-04-10T22:54:25.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-12T13:18:52.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-04-10T23:02:52.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-12T13:27:26.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-04-10T23:03:20.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-12T13:28:16.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="OF10"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-04-09T11:10:38.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-09T09:43:42.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-04-09T11:13:38.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-09T09:45:43.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-04-09T11:14:38.000+00:00"/>
+      <date key="org_timestamp" value="2014-04-09T09:46:15.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="WY10"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-09-13T21:49:12.000+00:00"/>
+      <date key="org_timestamp" value="2014-09-13T20:32:57.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-09-13T22:20:56.000+00:00"/>
+      <date key="org_timestamp" value="2014-09-13T21:04:31.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-09-13T22:22:06.000+00:00"/>
+      <date key="org_timestamp" value="2014-09-13T21:06:50.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="SKA10"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-01-27T10:56:11.000+00:00"/>
+      <date key="org_timestamp" value="2014-01-27T16:09:40.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-01-27T11:13:13.000+00:00"/>
+      <date key="org_timestamp" value="2014-01-27T16:26:39.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-01-27T11:13:46.000+00:00"/>
+      <date key="org_timestamp" value="2014-01-27T16:27:03.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="INA10"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-11-05T17:03:04.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-03T08:43:47.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-11-05T17:14:37.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-03T08:54:47.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-11-05T18:06:09.000+00:00"/>
+      <date key="org_timestamp" value="2014-11-03T09:45:51.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="LF10"/>
+    <event>
+      <string key="concept:name" value="ER Registration"/>
+      <date key="time:timestamp" value="2014-03-08T01:52:01.000+00:00"/>
+      <date key="org_timestamp" value="2014-03-07T20:49:45.000+00:00"/>
+      <boolean key="start_event" value="true"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Triage"/>
+      <date key="time:timestamp" value="2014-03-08T02:19:51.000+00:00"/>
+      <date key="org_timestamp" value="2014-03-07T21:17:08.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ER Sepsis Triage"/>
+      <date key="time:timestamp" value="2014-03-08T02:20:58.000+00:00"/>
+      <date key="org_timestamp" value="2014-03-07T21:17:59.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="Leucocytes"/>
+      <date key="time:timestamp" value="2014-03-08T02:45:31.000+00:00"/>
+      <date key="org_timestamp" value="2014-03-07T21:42:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+    <event>
+      <string key="concept:name" value="CRP"/>
+      <date key="time:timestamp" value="2014-03-08T02:45:53.000+00:00"/>
+      <date key="org_timestamp" value="2014-03-07T21:42:00.000+00:00"/>
+      <boolean key="start_event" value="false"/>
+    </event>
+  </trace>
+</log>

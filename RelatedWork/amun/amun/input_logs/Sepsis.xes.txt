@@ -1,0 +1,4371 @@
+0;ER Registration;1
+0;IV Liquid;142
+0;ER Triage;255
+0;CRP;328
+0;ER Sepsis Triage;414
+0;Leucocytes;687
+1;Leucocytes;2
+1;ER Triage;23
+1;ER Sepsis Triage;148
+1;IV Liquid;284
+1;LacticAcid;336
+1;CRP;435
+2;CRP;3
+2;LacticAcid;200
+3;LacticAcid;4
+3;ER Triage;333
+4;ER Triage;5
+4;IV Liquid;881
+5;ER Sepsis Triage;6
+6;IV Liquid;7
+6;IV Antibiotics;1049
+7;IV Antibiotics;8
+8;Admission NC;9
+9;CRP;10
+9;Leucocytes;207
+9;Admission NC;232
+10;Leucocytes;11
+11;Leucocytes;12
+11;CRP;2217
+12;CRP;13
+13;Leucocytes;14
+14;CRP;15
+15;CRP;16
+16;Leucocytes;17
+17;Leucocytes;18
+18;CRP;19
+19;CRP;20
+20;Leucocytes;21
+21;Release A;22
+23;CRP;24
+23;ER Sepsis Triage;32
+23;Leucocytes;116
+23;LacticAcid;208
+23;IV Liquid;359
+24;LacticAcid;25
+24;Leucocytes;608
+25;Leucocytes;26
+26;ER Sepsis Triage;27
+26;IV Liquid;899
+27;IV Liquid;28
+27;IV Antibiotics;713
+27;Admission IC;619
+28;IV Antibiotics;29
+29;Admission NC;30
+29;Admission IC;3118
+30;CRP;231
+30;Leucocytes;2110
+30;Admission NC;2892
+31;CRP;21
+32;Leucocytes;33
+32;CRP;41
+32;IV Liquid;50
+32;IV Antibiotics;67
+32;LacticAcid;74
+32;Admission NC;1792
+33;CRP;34
+33;Admission NC;98
+33;LacticAcid;126
+33;Leucocytes;2599
+34;IV Liquid;35
+34;LacticAcid;54
+34;Admission NC;770
+34;IV Antibiotics;552
+34;Leucocytes;22
+34;Admission IC;883
+34;ER Triage;22
+35;IV Antibiotics;36
+36;Admission NC;699
+37;Admission NC;38
+38;Leucocytes;39
+39;CRP;40
+40;Leucocytes;31
+41;LacticAcid;42
+41;Leucocytes;70
+41;Admission NC;196
+42;Leucocytes;43
+43;IV Liquid;44
+43;Admission IC;61
+43;Admission NC;88
+43;IV Antibiotics;240
+44;IV Antibiotics;193
+45;Admission NC;46
+46;Leucocytes;47
+47;CRP;48
+48;Release A;49
+49;Return ER;22
+50;CRP;51
+50;IV Antibiotics;57
+50;Leucocytes;103
+50;LacticAcid;114
+51;Leucocytes;52
+51;LacticAcid;188
+52;LacticAcid;53
+53;IV Antibiotics;90
+54;IV Antibiotics;55
+54;IV Liquid;84
+54;Admission NC;1230
+54;LacticAcid;2475
+54;Leucocytes;3174
+55;IV Liquid;587
+55;Admission NC;867
+55;Admission IC;3613
+56;Admission NC;21
+57;LacticAcid;58
+57;CRP;96
+57;Leucocytes;235
+57;Admission IC;3183
+58;CRP;59
+58;Leucocytes;327
+59;Leucocytes;130
+60;Admission NC;40
+61;Admission NC;62
+62;CRP;63
+63;Leucocytes;64
+64;CRP;65
+65;Admission NC;66
+66;Release B;22
+67;Leucocytes;68
+67;CRP;123
+67;IV Liquid;163
+67;LacticAcid;63
+68;CRP;69
+68;LacticAcid;1299
+69;LacticAcid;866
+70;LacticAcid;71
+70;Admission NC;582
+70;IV Liquid;281
+70;IV Antibiotics;22
+70;Admission IC;3472
+71;IV Liquid;381
+71;IV Antibiotics;133
+71;Admission NC;938
+72;IV Antibiotics;1501
+73;Admission NC;31
+74;CRP;75
+74;Leucocytes;159
+75;Leucocytes;76
+76;IV Antibiotics;77
+76;IV Liquid;342
+76;Admission NC;1337
+77;Admission NC;78
+77;IV Liquid;1192
+77;Leucocytes;2188
+78;Leucocytes;79
+78;CRP;632
+78;Admission NC;917
+78;IV Liquid;2046
+78;LacticAcid;3404
+79;CRP;80
+79;Release A;22
+80;Admission NC;81
+81;IV Liquid;82
+81;Leucocytes;2470
+81;CRP;40
+82;CRP;83
+83;Leucocytes;48
+84;IV Antibiotics;85
+84;LacticAcid;2043
+85;Admission NC;86
+85;Admission IC;645
+85;CRP;724
+85;Leucocytes;3403
+86;Leucocytes;364
+86;Admission IC;91
+86;Admission NC;138
+86;CRP;822
+86;LacticAcid;1059
+86;Release A;22
+87;Leucocytes;46
+88;IV Liquid;89
+88;Admission NC;2709
+88;Leucocytes;2612
+88;CRP;2685
+89;IV Antibiotics;19
+90;Admission NC;1773
+90;LacticAcid;22
+91;LacticAcid;92
+91;CRP;1729
+91;Leucocytes;2549
+92;Leucocytes;93
+93;CRP;94
+94;Admission NC;95
+95;Leucocytes;82
+96;LacticAcid;97
+96;Leucocytes;140
+97;Leucocytes;132
+98;Leucocytes;99
+98;Release A;199
+99;Leucocytes;778
+99;Release A;22
+100;Leucocytes;101
+101;Leucocytes;102
+102;CRP;66
+103;LacticAcid;104
+103;CRP;270
+104;CRP;105
+105;IV Antibiotics;106
+106;Admission IC;107
+106;Admission NC;183
+107;LacticAcid;108
+108;CRP;109
+109;Leucocytes;110
+110;LacticAcid;111
+111;LacticAcid;112
+112;CRP;113
+113;Leucocytes;45
+114;Leucocytes;115
+114;CRP;1343
+115;CRP;72
+116;CRP;117
+116;LacticAcid;589
+117;LacticAcid;118
+117;ER Sepsis Triage;1046
+117;Admission NC;1898
+118;ER Sepsis Triage;119
+118;IV Liquid;1745
+119;Leucocytes;120
+119;Admission NC;60
+119;IV Liquid;385
+119;IV Antibiotics;1273
+120;CRP;121
+121;LacticAcid;122
+122;Admission NC;47
+123;LacticAcid;124
+123;Leucocytes;1655
+124;Leucocytes;2783
+125;IV Liquid;22
+126;CRP;127
+127;Admission IC;128
+127;IV Liquid;220
+127;Admission NC;1249
+127;IV Antibiotics;245
+128;Admission NC;56
+129;IV Antibiotics;326
+130;Admission NC;131
+130;Leucocytes;181
+131;Leucocytes;31
+131;CRP;83
+131;Admission NC;952
+132;Admission NC;157
+132;Admission IC;1018
+133;Admission NC;134
+133;IV Liquid;600
+134;IV Liquid;2438
+134;Admission NC;432
+134;Leucocytes;3460
+134;CRP;2937
+135;Leucocytes;136
+136;CRP;137
+137;Release C;22
+138;Leucocytes;742
+138;Admission NC;229
+138;CRP;1787
+139;CRP;47
+140;LacticAcid;141
+141;Admission NC;248
+141;Admission IC;2664
+142;ER Registration;143
+143;ER Triage;144
+144;ER Sepsis Triage;145
+144;Leucocytes;2786
+145;LacticAcid;146
+145;IV Antibiotics;1925
+145;Leucocytes;1780
+145;CRP;3329
+146;CRP;147
+146;Leucocytes;2606
+147;Leucocytes;129
+148;IV Antibiotics;149
+148;ER Triage;869
+148;IV Liquid;2668
+149;ER Triage;150
+150;Leucocytes;151
+150;CRP;1851
+151;LacticAcid;152
+152;CRP;153
+153;Admission NC;154
+154;Admission NC;155
+155;CRP;156
+156;LacticAcid;83
+157;Release B;22
+157;Leucocytes;2123
+157;CRP;20
+158;CRP;17
+159;CRP;160
+160;IV Liquid;161
+160;IV Antibiotics;324
+160;Admission NC;824
+161;IV Antibiotics;162
+162;Admission NC;192
+162;Admission IC;1279
+163;Leucocytes;164
+163;LacticAcid;2118
+164;CRP;165
+165;LacticAcid;166
+166;Admission NC;167
+167;Admission NC;168
+167;Leucocytes;31
+167;CRP;983
+168;Leucocytes;169
+169;CRP;170
+170;CRP;171
+171;Leucocytes;172
+172;Leucocytes;173
+173;Leucocytes;174
+174;Leucocytes;175
+175;Leucocytes;176
+176;CRP;177
+177;LacticAcid;178
+178;Leucocytes;179
+179;CRP;180
+180;Leucocytes;137
+181;CRP;182
+182;LacticAcid;22
+183;CRP;2705
+183;Admission IC;753
+183;Admission NC;2271
+183;Leucocytes;47
+183;Release A;49
+184;Leucocytes;185
+185;CRP;186
+186;Leucocytes;187
+187;Release D;22
+188;Leucocytes;189
+189;IV Antibiotics;190
+190;Admission NC;191
+190;Admission IC;3600
+191;CRP;233
+191;Leucocytes;427
+191;Release A;22
+191;ER Triage;598
+192;Leucocytes;1071
+192;LacticAcid;1872
+192;CRP;252
+192;Admission NC;933
+192;Release A;22
+193;Admission NC;194
+193;Leucocytes;1918
+193;Admission IC;3159
+194;Leucocytes;197
+194;CRP;195
+194;Admission NC;1563
+194;LacticAcid;560
+194;Release A;22
+194;Release C;22
+195;Leucocytes;205
+196;Admission NC;48
+197;CRP;198
+197;Leucocytes;47
+197;Admission NC;3351
+198;Release A;199
+198;Admission NC;595
+198;CRP;1190
+198;Leucocytes;2025
+198;Release B;22
+199;Return ER;22
+200;CRP;201
+201;ER Triage;202
+202;ER Sepsis Triage;203
+203;IV Liquid;204
+203;IV Antibiotics;579
+204;IV Antibiotics;550
+205;Admission NC;206
+205;Release A;22
+205;LacticAcid;207
+205;Leucocytes;2679
+206;Release A;22
+206;Leucocytes;31
+207;Admission NC;19
+208;CRP;209
+208;Leucocytes;928
+209;Leucocytes;210
+210;ER Sepsis Triage;211
+210;IV Liquid;1066
+211;IV Liquid;212
+212;IV Antibiotics;213
+213;Admission NC;214
+214;Admission NC;215
+214;CRP;1209
+214;Leucocytes;1234
+215;CRP;216
+215;Leucocytes;31
+216;Leucocytes;217
+217;Leucocytes;218
+218;CRP;1833
+219;CRP;100
+220;IV Antibiotics;221
+221;Admission NC;222
+221;Admission IC;602
+222;CRP;223
+222;LacticAcid;2704
+222;Leucocytes;384
+222;Admission NC;594
+222;Release B;22
+222;Release A;49
+223;Leucocytes;224
+223;Release A;49
+224;LacticAcid;225
+224;Release A;199
+224;CRP;1887
+224;Leucocytes;1260
+225;Admission NC;226
+225;LacticAcid;2673
+225;Leucocytes;31
+226;CRP;227
+227;Leucocytes;228
+228;CRP;229
+229;CRP;230
+230;Leucocytes;19
+231;CRP;21
+231;Leucocytes;601
+232;CRP;95
+233;Leucocytes;234
+233;CRP;136
+234;CRP;2844
+234;Leucocytes;82
+234;Release A;22
+235;CRP;236
+235;LacticAcid;768
+236;LacticAcid;237
+236;CRP;272
+237;Admission NC;238
+237;LacticAcid;767
+238;CRP;254
+238;Admission NC;2033
+238;LacticAcid;2251
+238;Release A;22
+239;Admission NC;82
+240;IV Liquid;241
+240;Admission NC;264
+241;Admission NC;242
+241;LacticAcid;22
+242;Admission NC;243
+242;Leucocytes;3157
+242;CRP;46
+243;CRP;244
+244;Leucocytes;40
+245;Admission NC;246
+245;IV Liquid;744
+245;Admission IC;2858
+246;IV Liquid;247
+246;CRP;430
+246;Leucocytes;18
+247;Leucocytes;232
+248;CRP;2778
+248;Admission NC;249
+248;Leucocytes;984
+248;Release A;49
+248;Admission IC;2336
+249;CRP;250
+250;Leucocytes;251
+251;Release D;49
+252;Release A;49
+252;Leucocytes;253
+252;CRP;95
+253;Leucocytes;915
+253;Admission NC;940
+254;Admission NC;47
+254;Leucocytes;263
+254;CRP;16
+254;Release A;22
+255;ER Registration;256
+255;Leucocytes;2301
+256;ER Sepsis Triage;257
+256;Leucocytes;2938
+257;IV Liquid;258
+257;CRP;2263
+258;IV Antibiotics;259
+259;Leucocytes;260
+260;CRP;261
+261;LacticAcid;262
+262;Admission NC;1901
+263;Release A;22
+263;CRP;1890
+263;Admission NC;1661
+263;Leucocytes;47
+264;Admission NC;265
+264;Leucocytes;2780
+264;IV Liquid;2463
+265;CRP;266
+266;CRP;267
+266;Leucocytes;66
+267;Leucocytes;268
+268;CRP;269
+269;CRP;247
+270;LacticAcid;271
+270;IV Antibiotics;303
+271;IV Antibiotics;628
+272;Leucocytes;273
+273;LacticAcid;274
+274;Admission IC;275
+275;CRP;276
+276;LacticAcid;277
+277;Leucocytes;278
+278;Leucocytes;279
+279;CRP;280
+280;LacticAcid;45
+281;IV Antibiotics;282
+282;Admission NC;283
+282;Admission IC;2503
+282;LacticAcid;22
+283;Admission NC;139
+283;Leucocytes;1809
+284;ER Triage;285
+284;ER Sepsis Triage;820
+285;ER Sepsis Triage;286
+285;LacticAcid;1811
+285;Leucocytes;2202
+286;IV Antibiotics;287
+286;LacticAcid;1567
+286;CRP;1592
+286;Leucocytes;2747
+287;CRP;288
+287;LacticAcid;2199
+287;Leucocytes;3436
+288;LacticAcid;289
+288;Leucocytes;1687
+289;Leucocytes;290
+290;Admission IC;291
+290;Admission NC;21
+291;CRP;292
+292;LacticAcid;293
+293;Leucocytes;294
+294;CRP;295
+295;Leucocytes;296
+296;LacticAcid;297
+297;LacticAcid;298
+298;CRP;299
+299;Leucocytes;300
+300;Leucocytes;301
+301;CRP;302
+302;LacticAcid;196
+303;Admission NC;304
+304;Admission IC;305
+304;Leucocytes;598
+304;CRP;1743
+305;LacticAcid;306
+306;CRP;307
+307;Leucocytes;308
+308;Leucocytes;309
+309;CRP;310
+310;LacticAcid;311
+311;LacticAcid;312
+312;Leucocytes;313
+313;LacticAcid;314
+314;CRP;315
+315;Leucocytes;316
+316;LacticAcid;317
+317;LacticAcid;318
+318;Leucocytes;319
+319;LacticAcid;320
+320;CRP;321
+321;Admission NC;322
+322;Leucocytes;323
+323;CRP;46
+324;IV Liquid;1251
+324;Admission NC;1250
+324;Admission IC;2048
+325;Admission NC;39
+326;Admission NC;196
+327;CRP;845
+328;Leucocytes;329
+328;LacticAcid;1906
+328;ER Registration;2446
+329;ER Registration;330
+329;LacticAcid;2833
+330;ER Triage;331
+330;Leucocytes;1706
+331;Leucocytes;332
+331;ER Sepsis Triage;1275
+332;CRP;333
+333;ER Sepsis Triage;334
+334;IV Liquid;335
+335;IV Antibiotics;22
+336;CRP;337
+336;Leucocytes;408
+337;Leucocytes;338
+338;ER Triage;339
+339;ER Sepsis Triage;340
+340;LacticAcid;341
+340;IV Antibiotics;551
+340;IV Liquid;1814
+341;LacticAcid;334
+342;IV Antibiotics;343
+343;Admission NC;344
+343;Admission IC;611
+343;CRP;1966
+344;Admission IC;345
+344;Leucocytes;1026
+344;CRP;1240
+344;Admission NC;2080
+344;Release A;199
+344;LacticAcid;2233
+345;Leucocytes;346
+346;LacticAcid;347
+347;CRP;348
+348;LacticAcid;349
+349;Leucocytes;350
+350;CRP;351
+351;Leucocytes;352
+352;CRP;353
+353;LacticAcid;354
+354;CRP;355
+355;LacticAcid;356
+356;Leucocytes;357
+357;Admission NC;358
+358;CRP;87
+359;ER Sepsis Triage;360
+359;Leucocytes;1559
+359;CRP;3400
+360;CRP;361
+360;LacticAcid;2439
+361;LacticAcid;362
+362;Leucocytes;363
+363;IV Antibiotics;60
+364;Leucocytes;3337
+364;Admission NC;365
+364;CRP;583
+365;Leucocytes;366
+365;CRP;186
+366;Leucocytes;367
+367;CRP;368
+368;CRP;369
+369;CRP;370
+370;Leucocytes;371
+371;Leucocytes;372
+372;Leucocytes;373
+373;Leucocytes;374
+374;Leucocytes;375
+375;CRP;376
+376;Admission NC;377
+377;Admission NC;378
+378;Leucocytes;379
+379;Leucocytes;380
+380;CRP;232
+381;IV Antibiotics;382
+382;Admission NC;697
+382;CRP;383
+382;Admission IC;725
+382;ER Triage;22
+383;Leucocytes;182
+384;CRP;1698
+384;Leucocytes;1069
+384;Admission NC;19
+385;IV Antibiotics;386
+386;Admission IC;387
+386;Admission NC;2129
+387;Admission IC;388
+387;Leucocytes;181
+388;Leucocytes;389
+389;CRP;390
+390;LacticAcid;391
+391;Leucocytes;392
+392;CRP;393
+393;LacticAcid;394
+394;Leucocytes;395
+395;Leucocytes;396
+396;CRP;397
+397;LacticAcid;398
+398;LacticAcid;399
+399;CRP;400
+400;LacticAcid;401
+401;Leucocytes;402
+402;LacticAcid;403
+403;Leucocytes;404
+404;CRP;405
+405;Leucocytes;406
+406;LacticAcid;407
+407;CRP;56
+408;CRP;409
+409;ER Triage;410
+409;IV Liquid;3335
+410;ER Sepsis Triage;411
+411;IV Liquid;412
+411;IV Antibiotics;1076
+411;Admission NC;17
+412;IV Antibiotics;413
+413;Admission NC;45
+413;Leucocytes;22
+414;ER Registration;415
+414;IV Liquid;2220
+414;IV Antibiotics;2534
+415;ER Triage;416
+416;Leucocytes;417
+416;CRP;2287
+416;IV Liquid;3518
+417;CRP;418
+418;LacticAcid;419
+419;IV Liquid;420
+420;IV Antibiotics;421
+421;Admission IC;422
+422;LacticAcid;423
+423;CRP;424
+424;CRP;425
+425;LacticAcid;426
+426;Leucocytes;196
+427;CRP;428
+428;Leucocytes;429
+428;Admission NC;82
+429;CRP;430
+430;Leucocytes;48
+430;Release A;22
+431;CRP;82
+432;IV Liquid;433
+432;Leucocytes;2083
+433;CRP;434
+434;Leucocytes;230
+435;Leucocytes;436
+435;LacticAcid;879
+436;ER Triage;437
+436;LacticAcid;2189
+437;ER Sepsis Triage;438
+438;IV Liquid;439
+438;LacticAcid;623
+438;IV Antibiotics;1917
+439;IV Antibiotics;440
+440;Admission IC;441
+441;LacticAcid;442
+442;CRP;443
+443;Leucocytes;444
+444;LacticAcid;445
+445;LacticAcid;446
+446;Leucocytes;447
+447;CRP;448
+448;CRP;449
+449;Leucocytes;450
+450;LacticAcid;451
+451;Leucocytes;452
+452;CRP;453
+453;LacticAcid;454
+454;CRP;455
+455;LacticAcid;456
+456;Leucocytes;457
+457;Leucocytes;458
+458;CRP;459
+459;LacticAcid;460
+460;Leucocytes;461
+461;LacticAcid;462
+462;CRP;463
+463;CRP;464
+464;LacticAcid;465
+465;Leucocytes;466
+466;Leucocytes;467
+467;CRP;468
+468;LacticAcid;469
+469;CRP;470
+470;Leucocytes;471
+471;LacticAcid;472
+472;CRP;473
+473;Leucocytes;474
+474;LacticAcid;475
+475;LacticAcid;476
+476;Leucocytes;477
+477;CRP;478
+478;LacticAcid;479
+479;CRP;480
+480;Leucocytes;481
+481;Leucocytes;482
+482;CRP;483
+483;LacticAcid;484
+484;LacticAcid;485
+485;Leucocytes;486
+486;CRP;487
+487;CRP;488
+488;Leucocytes;489
+489;LacticAcid;490
+490;Leucocytes;491
+491;CRP;492
+492;LacticAcid;493
+493;CRP;494
+494;LacticAcid;495
+495;Leucocytes;496
+496;LacticAcid;497
+497;CRP;498
+498;Leucocytes;499
+499;Leucocytes;500
+500;CRP;501
+501;LacticAcid;502
+502;LacticAcid;503
+503;CRP;504
+504;Leucocytes;505
+505;LacticAcid;506
+506;Leucocytes;507
+507;CRP;508
+508;Leucocytes;509
+509;CRP;510
+510;LacticAcid;511
+511;Leucocytes;512
+512;LacticAcid;513
+513;CRP;514
+514;CRP;515
+515;Leucocytes;516
+516;LacticAcid;517
+517;CRP;518
+518;LacticAcid;519
+519;Leucocytes;520
+520;Leucocytes;521
+521;CRP;522
+522;Leucocytes;523
+523;LacticAcid;524
+524;Leucocytes;525
+525;CRP;526
+526;LacticAcid;527
+527;Leucocytes;528
+528;LacticAcid;529
+529;CRP;530
+530;LacticAcid;531
+531;Leucocytes;532
+532;CRP;533
+533;CRP;534
+534;LacticAcid;535
+535;Leucocytes;536
+536;Leucocytes;537
+537;CRP;538
+538;LacticAcid;539
+539;LacticAcid;540
+540;LacticAcid;541
+541;CRP;542
+542;Leucocytes;543
+543;Leucocytes;544
+544;Leucocytes;545
+545;CRP;546
+546;LacticAcid;547
+547;CRP;548
+548;LacticAcid;549
+549;Leucocytes;66
+550;Admission NC;2120
+550;Leucocytes;22
+551;IV Liquid;37
+552;IV Liquid;2434
+552;Admission NC;553
+552;Leucocytes;1660
+553;LacticAcid;554
+553;Admission NC;73
+553;CRP;2901
+554;Admission NC;555
+555;Admission NC;556
+556;IV Liquid;557
+557;Leucocytes;558
+558;CRP;559
+559;CRP;549
+560;Leucocytes;561
+561;CRP;562
+562;Admission NC;563
+563;Leucocytes;564
+564;CRP;565
+565;CRP;566
+566;Leucocytes;567
+567;Leucocytes;568
+568;CRP;569
+569;CRP;570
+570;Leucocytes;571
+571;CRP;572
+572;CRP;573
+573;CRP;574
+574;Leucocytes;575
+575;CRP;576
+576;Leucocytes;577
+577;CRP;578
+578;CRP;251
+579;Admission NC;580
+579;IV Liquid;22
+580;Admission NC;581
+581;IV Liquid;21
+582;CRP;1521
+582;Release A;22
+582;Leucocytes;716
+583;Admission IC;584
+583;CRP;988
+583;Release A;199
+583;Admission NC;2107
+583;Leucocytes;3355
+584;Leucocytes;585
+585;LacticAcid;586
+586;CRP;196
+587;Admission NC;588
+587;Admission IC;1162
+588;Release A;22
+588;Leucocytes;1065
+588;Admission NC;1591
+588;CRP;20
+589;CRP;590
+590;ER Sepsis Triage;591
+590;Admission IC;2731
+591;Admission NC;592
+591;IV Liquid;927
+591;IV Antibiotics;3402
+592;CRP;593
+592;Admission NC;2175
+593;Leucocytes;269
+594;Release A;199
+594;Leucocytes;18
+594;CRP;3317
+595;Leucocytes;596
+595;CRP;20
+596;CRP;597
+597;CRP;31
+598;Leucocytes;431
+599;CRP;45
+600;Admission NC;876
+601;Leucocytes;936
+601;CRP;2444
+601;Release A;22
+601;Admission NC;21
+602;CRP;603
+603;LacticAcid;604
+604;Leucocytes;605
+605;Admission NC;606
+606;CRP;607
+607;Leucocytes;358
+608;ER Sepsis Triage;912
+608;LacticAcid;955
+609;CRP;610
+610;Leucocytes;38
+611;Leucocytes;612
+611;LacticAcid;1238
+612;CRP;613
+612;LacticAcid;407
+613;LacticAcid;614
+614;LacticAcid;615
+615;CRP;616
+616;Leucocytes;617
+617;CRP;618
+618;LacticAcid;20
+619;LacticAcid;620
+620;Leucocytes;621
+621;CRP;622
+622;LacticAcid;300
+623;IV Liquid;624
+624;IV Antibiotics;625
+625;Admission NC;626
+626;CRP;627
+627;Leucocytes;598
+628;Admission NC;629
+628;Admission IC;1077
+629;Leucocytes;630
+629;Admission NC;752
+629;CRP;2681
+629;Release A;49
+629;Admission IC;3406
+630;CRP;631
+631;Leucocytes;48
+631;Release A;49
+631;Admission NC;46
+631;CRP;21
+632;Leucocytes;633
+632;CRP;1075
+633;CRP;634
+633;Admission NC;2272
+634;Leucocytes;635
+635;Leucocytes;636
+636;CRP;637
+637;Leucocytes;638
+638;CRP;639
+639;CRP;640
+640;Leucocytes;641
+641;Leucocytes;642
+642;CRP;643
+643;Leucocytes;644
+644;CRP;431
+645;Leucocytes;646
+645;LacticAcid;995
+646;CRP;647
+647;LacticAcid;648
+648;CRP;649
+648;Admission NC;40
+649;LacticAcid;650
+650;Leucocytes;651
+651;LacticAcid;652
+652;Leucocytes;653
+653;CRP;654
+654;Leucocytes;655
+655;CRP;656
+656;LacticAcid;657
+657;Leucocytes;658
+658;CRP;659
+659;LacticAcid;660
+660;Leucocytes;661
+661;LacticAcid;662
+662;CRP;663
+663;Leucocytes;664
+664;LacticAcid;665
+665;Leucocytes;666
+666;CRP;667
+667;Leucocytes;668
+668;CRP;669
+669;LacticAcid;670
+670;Admission NC;671
+671;Leucocytes;672
+672;CRP;673
+673;CRP;674
+674;Leucocytes;675
+675;CRP;676
+676;Leucocytes;677
+677;Leucocytes;678
+678;Leucocytes;679
+679;Leucocytes;680
+680;CRP;681
+681;CRP;682
+682;Leucocytes;683
+683;CRP;684
+684;Leucocytes;685
+685;Leucocytes;686
+686;CRP;606
+687;CRP;688
+687;ER Registration;919
+688;ER Registration;689
+689;ER Triage;690
+690;ER Sepsis Triage;691
+690;Leucocytes;2273
+691;IV Liquid;692
+691;LacticAcid;785
+691;IV Antibiotics;1203
+691;Admission NC;1305
+691;CRP;2802
+692;LacticAcid;693
+692;IV Antibiotics;2902
+693;CRP;694
+693;Leucocytes;1085
+693;IV Antibiotics;2232
+694;Leucocytes;695
+695;IV Antibiotics;696
+696;Admission NC;228
+697;CRP;698
+697;Admission NC;790
+697;Leucocytes;1530
+697;LacticAcid;2253
+698;Release A;22
+698;Leucocytes;1834
+698;CRP;1995
+699;Admission NC;700
+699;CRP;1562
+699;Leucocytes;2117
+700;Leucocytes;39
+700;CRP;701
+700;Release B;22
+701;Leucocytes;702
+702;Leucocytes;703
+703;CRP;704
+704;CRP;705
+705;Leucocytes;706
+706;CRP;707
+707;Leucocytes;708
+708;CRP;709
+709;Leucocytes;710
+710;CRP;711
+711;Leucocytes;712
+712;CRP;158
+713;IV Liquid;714
+714;Admission NC;715
+715;Leucocytes;39
+715;Admission NC;48
+716;CRP;717
+716;Leucocytes;56
+717;Leucocytes;718
+717;CRP;875
+717;Admission NC;40
+717;Release A;22
+718;Leucocytes;719
+719;CRP;720
+720;CRP;721
+721;Leucocytes;722
+722;Release A;723
+723;CRP;724
+724;Leucocytes;22
+725;LacticAcid;726
+725;CRP;1892
+726;Leucocytes;727
+726;LacticAcid;2040
+727;LacticAcid;728
+728;CRP;729
+729;LacticAcid;730
+730;CRP;731
+731;LacticAcid;732
+732;Leucocytes;733
+733;LacticAcid;734
+734;Leucocytes;735
+735;CRP;736
+736;Admission NC;737
+737;Leucocytes;738
+738;CRP;739
+739;Admission NC;740
+740;CRP;741
+741;Leucocytes;597
+742;CRP;743
+742;Release A;199
+743;CRP;48
+743;Release A;199
+744;Admission NC;745
+744;Admission IC;1532
+745;CRP;746
+745;Leucocytes;862
+745;Admission NC;2278
+746;Leucocytes;747
+747;CRP;748
+747;Release A;49
+748;Admission NC;749
+749;Leucocytes;750
+750;Leucocytes;751
+751;CRP;239
+752;Leucocytes;31
+752;CRP;1633
+752;Release A;49
+753;CRP;754
+754;LacticAcid;755
+755;Leucocytes;756
+756;LacticAcid;757
+757;Leucocytes;758
+758;CRP;759
+759;Admission NC;760
+760;CRP;761
+761;Leucocytes;762
+762;CRP;763
+763;LacticAcid;764
+764;Leucocytes;765
+765;CRP;766
+766;LacticAcid;243
+767;Admission NC;207
+768;CRP;769
+769;Admission NC;784
+769;Admission IC;2915
+770;Release A;199
+770;Leucocytes;771
+770;CRP;1962
+770;Admission NC;3252
+770;Admission IC;2926
+771;CRP;772
+771;Admission NC;2622
+771;Release A;49
+771;Leucocytes;3598
+772;Leucocytes;773
+772;Release A;199
+773;Leucocytes;774
+773;CRP;2198
+774;Leucocytes;775
+775;Leucocytes;776
+776;Leucocytes;777
+777;LacticAcid;82
+778;Leucocytes;779
+779;Leucocytes;102
+779;CRP;780
+780;Leucocytes;781
+781;Leucocytes;782
+782;Leucocytes;783
+783;Leucocytes;434
+784;CRP;2114
+784;Leucocytes;1276
+784;Admission NC;1803
+785;Leucocytes;786
+786;CRP;787
+787;IV Liquid;788
+788;IV Antibiotics;789
+789;Admission NC;1001
+790;Admission IC;791
+790;Release A;22
+791;CRP;792
+792;Leucocytes;793
+793;LacticAcid;794
+794;LacticAcid;795
+795;LacticAcid;796
+796;Leucocytes;797
+797;CRP;798
+798;CRP;799
+799;LacticAcid;800
+800;Leucocytes;801
+801;CRP;802
+802;Leucocytes;803
+803;LacticAcid;804
+804;LacticAcid;805
+805;CRP;806
+806;Leucocytes;807
+807;CRP;808
+808;Leucocytes;809
+809;LacticAcid;810
+810;Leucocytes;811
+811;LacticAcid;812
+812;CRP;813
+813;CRP;814
+814;Leucocytes;815
+815;LacticAcid;816
+816;LacticAcid;817
+817;Leucocytes;818
+818;CRP;819
+819;Release E;49
+820;IV Antibiotics;821
+821;ER Triage;1847
+822;Leucocytes;823
+822;Admission NC;31
+822;Release A;49
+822;Admission IC;3123
+822;CRP;48
+823;CRP;1849
+823;Release A;199
+823;LacticAcid;1734
+823;Admission NC;135
+823;Leucocytes;3147
+824;Leucocytes;825
+824;CRP;2635
+824;Admission NC;1671
+825;CRP;826
+826;Leucocytes;827
+827;CRP;828
+828;Leucocytes;829
+829;CRP;830
+830;CRP;831
+831;Leucocytes;832
+832;Leucocytes;833
+833;CRP;834
+834;CRP;835
+835;Leucocytes;836
+836;CRP;837
+837;LacticAcid;838
+838;CRP;839
+839;Leucocytes;840
+840;CRP;841
+841;CRP;842
+842;CRP;843
+843;CRP;322
+844;Leucocytes;843
+845;Admission NC;846
+845;Admission IC;2687
+846;Admission NC;847
+846;Leucocytes;1072
+846;CRP;2459
+846;LacticAcid;1258
+847;Leucocytes;848
+847;Admission IC;3112
+848;CRP;849
+849;Leucocytes;850
+850;Leucocytes;851
+850;CRP;21
+851;Leucocytes;852
+852;Leucocytes;853
+853;Leucocytes;854
+854;CRP;855
+855;Leucocytes;856
+856;Leucocytes;857
+857;Leucocytes;858
+858;CRP;859
+859;Leucocytes;860
+860;CRP;861
+861;Leucocytes;184
+862;CRP;863
+863;Admission NC;864
+864;CRP;865
+865;Leucocytes;37
+866;Admission NC;206
+866;IV Liquid;325
+867;Admission NC;868
+867;LacticAcid;21
+867;Leucocytes;2121
+867;CRP;2639
+867;IV Liquid;3309
+868;CRP;83
+868;IV Liquid;112
+869;IV Liquid;870
+869;IV Antibiotics;1293
+869;CRP;1311
+870;IV Antibiotics;871
+870;LacticAcid;1815
+871;CRP;872
+872;Leucocytes;873
+873;LacticAcid;874
+874;Admission NC;196
+875;Leucocytes;1272
+876;Leucocytes;877
+876;CRP;904
+876;LacticAcid;3274
+877;CRP;878
+878;Release B;22
+878;Admission NC;3219
+878;Release A;49
+879;Leucocytes;880
+880;IV Liquid;881
+880;ER Triage;2213
+881;ER Triage;882
+882;ER Sepsis Triage;335
+883;CRP;884
+883;Leucocytes;1879
+884;Leucocytes;885
+885;LacticAcid;886
+886;Leucocytes;887
+887;Leucocytes;888
+888;Leucocytes;889
+889;Leucocytes;890
+890;LacticAcid;891
+891;LacticAcid;892
+892;Leucocytes;893
+893;CRP;894
+894;Leucocytes;895
+895;LacticAcid;896
+896;Leucocytes;897
+897;CRP;898
+898;LacticAcid;66
+899;ER Sepsis Triage;900
+899;Admission NC;2521
+900;IV Antibiotics;901
+901;Admission NC;902
+902;CRP;903
+903;LacticAcid;31
+904;Leucocytes;905
+905;CRP;906
+906;Leucocytes;907
+907;CRP;908
+908;Leucocytes;909
+909;CRP;910
+910;Leucocytes;911
+911;Admission NC;230
+912;IV Antibiotics;913
+912;Admission NC;1871
+912;IV Liquid;2196
+913;Admission NC;914
+914;LacticAcid;65
+915;CRP;916
+916;Leucocytes;1200
+916;Release A;199
+917;CRP;918
+918;Leucocytes;578
+919;ER Triage;920
+920;ER Sepsis Triage;921
+921;CRP;922
+921;Leucocytes;1660
+921;IV Liquid;2227
+922;LacticAcid;923
+923;Leucocytes;924
+924;IV Antibiotics;925
+924;IV Liquid;2230
+925;Admission NC;926
+926;Admission NC;20
+927;IV Antibiotics;1662
+928;CRP;929
+929;ER Sepsis Triage;930
+930;IV Liquid;931
+930;IV Antibiotics;2461
+931;IV Antibiotics;932
+931;Leucocytes;1244
+932;Admission NC;1179
+933;Leucocytes;2105
+933;CRP;2231
+934;CRP;935
+935;Release A;199
+936;CRP;937
+937;Leucocytes;31
+937;Release A;49
+938;IV Liquid;939
+938;Admission NC;942
+938;CRP;83
+938;Release B;22
+938;Release A;49
+939;IV Antibiotics;31
+940;CRP;941
+940;Leucocytes;18
+941;Leucocytes;741
+942;CRP;943
+943;Leucocytes;944
+944;Leucocytes;945
+945;CRP;946
+946;Leucocytes;947
+947;CRP;948
+948;Leucocytes;949
+949;CRP;950
+950;CRP;951
+951;Leucocytes;135
+952;Leucocytes;953
+953;CRP;954
+954;CRP;323
+955;ER Sepsis Triage;956
+955;Admission NC;1807
+956;IV Liquid;957
+956;Admission NC;2407
+956;IV Antibiotics;2595
+957;IV Antibiotics;958
+958;Admission NC;959
+958;Admission IC;1010
+959;Admission IC;960
+959;Leucocytes;1868
+959;CRP;2837
+960;CRP;961
+961;LacticAcid;962
+962;Leucocytes;963
+963;LacticAcid;964
+964;Leucocytes;965
+965;CRP;966
+966;LacticAcid;967
+967;Admission IC;968
+968;LacticAcid;969
+969;CRP;970
+970;Leucocytes;971
+971;LacticAcid;972
+972;Leucocytes;973
+973;CRP;974
+974;Leucocytes;975
+975;CRP;976
+976;LacticAcid;977
+977;Admission NC;978
+978;CRP;979
+979;Leucocytes;980
+980;CRP;981
+981;Leucocytes;982
+982;CRP;983
+983;Leucocytes;239
+984;Leucocytes;985
+984;CRP;2793
+985;Leucocytes;986
+986;CRP;987
+987;Admission NC;741
+988;Leucocytes;989
+988;Release A;22
+989;Leucocytes;990
+989;Release A;22
+990;CRP;991
+991;Leucocytes;992
+991;Release A;22
+992;Admission NC;993
+993;CRP;994
+994;Leucocytes;16
+995;Leucocytes;996
+996;CRP;997
+997;LacticAcid;998
+997;Leucocytes;1182
+998;CRP;999
+999;LacticAcid;1000
+1000;Leucocytes;325
+1001;Leucocytes;1002
+1002;CRP;1003
+1003;CRP;20
+1003;LacticAcid;1004
+1004;Leucocytes;1005
+1005;CRP;1006
+1006;Admission NC;1007
+1007;Admission NC;1008
+1008;CRP;1009
+1009;Leucocytes;62
+1010;LacticAcid;1011
+1011;CRP;1012
+1012;Leucocytes;1013
+1013;Leucocytes;1014
+1014;CRP;1015
+1015;LacticAcid;1016
+1016;CRP;1017
+1017;LacticAcid;113
+1018;Leucocytes;1019
+1019;CRP;1020
+1020;LacticAcid;1021
+1021;LacticAcid;1022
+1022;CRP;1023
+1023;Leucocytes;1024
+1024;LacticAcid;1025
+1024;Admission NC;18
+1025;Leucocytes;586
+1026;CRP;1027
+1027;Leucocytes;2740
+1027;Release A;199
+1027;CRP;1028
+1028;Leucocytes;1029
+1029;Admission NC;1030
+1029;Leucocytes;47
+1030;CRP;1031
+1031;Leucocytes;1032
+1032;CRP;1033
+1033;Admission NC;1034
+1034;Admission NC;1035
+1035;CRP;1036
+1036;CRP;1037
+1037;Leucocytes;1038
+1038;CRP;1039
+1039;Leucocytes;1040
+1040;CRP;1041
+1041;CRP;1042
+1042;Leucocytes;1043
+1043;CRP;1044
+1044;CRP;1045
+1045;Admission NC;187
+1046;IV Liquid;1047
+1046;Admission NC;2197
+1047;IV Antibiotics;1048
+1047;LacticAcid;1805
+1048;Admission NC;1999
+1048;Release B;1277
+1049;Admission IC;1050
+1049;IV Liquid;1712
+1049;Admission NC;2085
+1050;LacticAcid;1051
+1051;Leucocytes;1052
+1052;CRP;1053
+1053;LacticAcid;1054
+1054;Leucocytes;1055
+1055;CRP;1056
+1056;CRP;1057
+1057;Leucocytes;1058
+1058;LacticAcid;37
+1059;CRP;1060
+1059;Admission NC;2464
+1060;CRP;1061
+1061;LacticAcid;1062
+1062;Leucocytes;1063
+1063;Leucocytes;1064
+1064;CRP;101
+1065;Admission NC;82
+1065;CRP;40
+1065;Release A;22
+1066;ER Sepsis Triage;1067
+1067;Admission NC;1068
+1067;IV Antibiotics;2112
+1068;IV Antibiotics;380
+1069;CRP;1070
+1070;Leucocytes;101
+1070;CRP;47
+1071;CRP;1607
+1071;Leucocytes;3441
+1071;Admission NC;20
+1072;CRP;1073
+1073;Admission NC;1074
+1073;Release A;22
+1073;Leucocytes;102
+1074;Release A;22
+1074;CRP;40
+1075;Leucocytes;935
+1076;IV Liquid;239
+1077;Leucocytes;1078
+1077;CRP;2268
+1078;CRP;1079
+1079;LacticAcid;1080
+1080;CRP;1081
+1081;LacticAcid;1082
+1082;Leucocytes;1083
+1083;Leucocytes;1084
+1084;LacticAcid;64
+1085;CRP;1086
+1086;IV Antibiotics;1087
+1087;Admission NC;1088
+1088;Leucocytes;1089
+1089;CRP;1090
+1090;Admission NC;1091
+1091;CRP;1092
+1092;Leucocytes;1093
+1093;Leucocytes;1094
+1094;Leucocytes;1095
+1095;CRP;1096
+1096;Leucocytes;1097
+1097;Leucocytes;1098
+1098;Leucocytes;1099
+1099;Leucocytes;1100
+1100;Leucocytes;1101
+1101;CRP;1102
+1102;Leucocytes;1103
+1103;Leucocytes;1104
+1104;Leucocytes;1105
+1105;Leucocytes;1106
+1106;Leucocytes;1107
+1107;Leucocytes;1108
+1108;CRP;1109
+1109;CRP;1110
+1110;Leucocytes;1111
+1111;Leucocytes;1112
+1112;CRP;1113
+1113;Leucocytes;1114
+1114;CRP;1115
+1115;CRP;1116
+1116;Leucocytes;1117
+1117;Leucocytes;1118
+1118;CRP;1119
+1119;Leucocytes;1120
+1120;Leucocytes;1121
+1121;CRP;1122
+1122;Leucocytes;1123
+1123;CRP;1124
+1124;Leucocytes;1125
+1125;CRP;1126
+1126;Leucocytes;1127
+1127;Leucocytes;1128
+1128;Leucocytes;1129
+1129;CRP;1130
+1130;CRP;1131
+1131;Leucocytes;1132
+1132;CRP;1133
+1133;Leucocytes;1134
+1134;Leucocytes;1135
+1135;CRP;1136
+1136;Leucocytes;1137
+1137;Admission IC;1138
+1138;Leucocytes;1139
+1139;CRP;1140
+1140;LacticAcid;1141
+1141;CRP;1142
+1142;LacticAcid;1143
+1143;Leucocytes;1144
+1144;LacticAcid;1145
+1145;Leucocytes;1146
+1146;CRP;1147
+1147;Leucocytes;1148
+1148;CRP;1149
+1149;LacticAcid;1150
+1150;Admission NC;1151
+1151;Leucocytes;1152
+1152;Leucocytes;1153
+1153;Leucocytes;1154
+1154;Leucocytes;1155
+1155;CRP;1156
+1156;Leucocytes;1157
+1157;Leucocytes;1158
+1158;CRP;1159
+1159;Leucocytes;1160
+1160;Leucocytes;1161
+1161;CRP;185
+1162;CRP;1163
+1163;LacticAcid;1164
+1163;Leucocytes;3255
+1164;Leucocytes;1165
+1165;LacticAcid;1166
+1166;LacticAcid;1167
+1167;LacticAcid;1168
+1168;CRP;1169
+1169;LacticAcid;1170
+1170;Leucocytes;1171
+1171;LacticAcid;1172
+1172;LacticAcid;1173
+1173;LacticAcid;1174
+1174;LacticAcid;1175
+1175;LacticAcid;1176
+1176;Leucocytes;1177
+1177;CRP;1178
+1178;Admission NC;243
+1179;CRP;1180
+1179;Leucocytes;1659
+1179;Admission NC;2437
+1179;LacticAcid;3314
+1180;Leucocytes;1181
+1180;Release A;22
+1181;Admission NC;46
+1181;CRP;20
+1182;CRP;1183
+1183;LacticAcid;1184
+1184;Admission NC;1185
+1185;Leucocytes;1186
+1186;CRP;1187
+1187;CRP;1188
+1188;Leucocytes;1189
+1189;Leucocytes;322
+1190;Leucocytes;1191
+1191;Leucocytes;596
+1191;CRP;1584
+1192;Admission NC;1193
+1193;Release A;199
+1193;Leucocytes;1194
+1193;Admission NC;46
+1193;CRP;1189
+1194;CRP;1195
+1195;Leucocytes;1196
+1196;Leucocytes;1197
+1197;CRP;1198
+1198;CRP;1199
+1199;Leucocytes;83
+1200;CRP;1201
+1201;Leucocytes;1202
+1201;CRP;244
+1202;Release A;22
+1202;Leucocytes;358
+1203;Admission NC;1204
+1204;Leucocytes;1205
+1204;Release A;22
+1204;CRP;2157
+1205;CRP;1206
+1206;Leucocytes;1207
+1207;CRP;1208
+1208;CRP;39
+1209;Leucocytes;1210
+1210;Release A;49
+1210;Leucocytes;1211
+1211;CRP;1212
+1212;Admission NC;1213
+1213;Leucocytes;1214
+1214;CRP;1215
+1215;Leucocytes;1216
+1216;Leucocytes;1217
+1217;CRP;1218
+1218;Leucocytes;1219
+1219;CRP;1220
+1220;Leucocytes;1221
+1221;CRP;1222
+1222;Leucocytes;1223
+1223;CRP;1224
+1224;CRP;1225
+1225;Leucocytes;1226
+1226;CRP;1227
+1227;Leucocytes;1228
+1228;CRP;1229
+1229;Release C;49
+1230;Release B;22
+1230;Leucocytes;1231
+1230;Admission NC;21
+1230;Release A;22
+1230;CRP;21
+1231;CRP;1232
+1232;Admission NC;1233
+1232;LacticAcid;22
+1233;CRP;1189
+1233;Release A;22
+1234;CRP;1235
+1235;CRP;1236
+1235;LacticAcid;358
+1236;Leucocytes;1237
+1237;Admission NC;1238
+1237;Leucocytes;31
+1238;Leucocytes;1239
+1239;CRP;60
+1240;Leucocytes;1241
+1240;CRP;21
+1241;Leucocytes;1242
+1241;CRP;1570
+1241;Admission NC;2174
+1242;CRP;1243
+1243;Release A;49
+1243;CRP;83
+1244;IV Antibiotics;1245
+1245;Admission NC;1246
+1246;Admission NC;1247
+1247;Leucocytes;1248
+1248;CRP;358
+1249;Release A;49
+1249;IV Liquid;335
+1249;Admission NC;2710
+1249;LacticAcid;3216
+1250;Leucocytes;31
+1250;Admission NC;232
+1250;CRP;1278
+1251;Admission NC;1252
+1252;CRP;2115
+1252;Leucocytes;1253
+1252;Admission IC;1688
+1253;Leucocytes;1254
+1253;CRP;22
+1254;CRP;1255
+1255;Leucocytes;1256
+1256;Leucocytes;1257
+1257;CRP;1258
+1258;Leucocytes;1259
+1259;CRP;243
+1260;CRP;1261
+1261;Admission IC;1262
+1261;Leucocytes;3176
+1262;Leucocytes;1263
+1263;CRP;1264
+1264;LacticAcid;1265
+1265;LacticAcid;1266
+1266;CRP;1267
+1267;Leucocytes;1268
+1268;LacticAcid;1269
+1269;Leucocytes;1270
+1270;CRP;1271
+1271;Admission NC;87
+1272;CRP;16
+1272;Release A;49
+1273;Admission NC;2200
+1273;IV Liquid;1274
+1274;Admission NC;357
+1275;Admission NC;1635
+1275;LacticAcid;2332
+1275;Leucocytes;3220
+1276;Leucocytes;31
+1276;CRP;2201
+1277;Admission NC;22
+1278;Leucocytes;2766
+1278;Release A;22
+1279;Leucocytes;1280
+1279;LacticAcid;1758
+1280;LacticAcid;1281
+1281;CRP;1282
+1282;Leucocytes;1283
+1282;Admission NC;3412
+1283;CRP;1284
+1284;LacticAcid;1285
+1285;LacticAcid;1286
+1286;LacticAcid;1287
+1287;CRP;1288
+1288;Leucocytes;1289
+1289;Admission NC;1290
+1290;Leucocytes;1291
+1291;CRP;1292
+1292;Leucocytes;954
+1293;Leucocytes;1294
+1294;CRP;1295
+1295;IV Liquid;1296
+1296;Admission NC;1297
+1297;CRP;1298
+1298;Leucocytes;158
+1299;CRP;1300
+1300;IV Liquid;1301
+1300;Admission NC;18
+1301;Admission NC;1302
+1302;Leucocytes;1303
+1303;CRP;1304
+1304;Admission NC;137
+1305;CRP;1306
+1306;Leucocytes;1307
+1307;Admission NC;1308
+1308;CRP;1309
+1309;Leucocytes;1310
+1310;CRP;135
+1311;Leucocytes;1312
+1312;LacticAcid;1313
+1312;IV Liquid;1748
+1313;LacticAcid;1314
+1314;IV Liquid;1315
+1315;IV Antibiotics;1316
+1316;Admission IC;1317
+1317;LacticAcid;1318
+1318;Leucocytes;1319
+1319;CRP;1320
+1320;LacticAcid;1321
+1321;CRP;1322
+1322;LacticAcid;1323
+1323;Leucocytes;1324
+1324;Admission NC;1325
+1325;Leucocytes;1326
+1326;CRP;1327
+1327;Leucocytes;1328
+1328;Leucocytes;1329
+1329;CRP;1330
+1330;Leucocytes;1331
+1331;CRP;1332
+1332;Leucocytes;1333
+1333;CRP;1334
+1334;Leucocytes;1335
+1335;CRP;1336
+1336;Leucocytes;609
+1337;Release A;49
+1337;Admission NC;1338
+1337;Leucocytes;2074
+1338;Leucocytes;1339
+1339;CRP;1340
+1340;CRP;1341
+1341;Leucocytes;1342
+1342;Release E;22
+1343;Leucocytes;1344
+1344;IV Antibiotics;1345
+1345;Admission NC;1346
+1346;Leucocytes;1347
+1346;Admission NC;2154
+1346;CRP;2125
+1347;CRP;1348
+1348;Admission IC;1349
+1348;Leucocytes;39
+1348;Admission NC;31
+1348;CRP;66
+1349;CRP;1350
+1350;Leucocytes;1351
+1351;LacticAcid;1352
+1352;Leucocytes;1353
+1353;Leucocytes;1354
+1354;LacticAcid;1355
+1355;Leucocytes;1356
+1356;CRP;1357
+1357;LacticAcid;1358
+1358;CRP;1359
+1359;Leucocytes;1360
+1360;LacticAcid;1361
+1361;CRP;1362
+1362;LacticAcid;1363
+1363;Leucocytes;1364
+1364;CRP;1365
+1365;LacticAcid;1366
+1366;Leucocytes;1367
+1367;LacticAcid;1368
+1368;Leucocytes;1369
+1369;CRP;1370
+1370;CRP;1371
+1371;Leucocytes;1372
+1372;LacticAcid;1373
+1373;CRP;1374
+1374;Leucocytes;1375
+1375;LacticAcid;1376
+1376;LacticAcid;1377
+1377;Leucocytes;1378
+1378;CRP;1379
+1379;LacticAcid;1380
+1380;CRP;1381
+1381;Leucocytes;1382
+1382;Leucocytes;1383
+1383;CRP;1384
+1384;LacticAcid;1385
+1385;CRP;1386
+1386;Leucocytes;1387
+1387;LacticAcid;1388
+1388;CRP;1389
+1389;Leucocytes;1390
+1390;LacticAcid;1391
+1391;LacticAcid;1392
+1392;Leucocytes;1393
+1393;CRP;1394
+1394;LacticAcid;1395
+1395;CRP;1396
+1396;Leucocytes;1397
+1397;LacticAcid;1398
+1398;Leucocytes;1399
+1399;CRP;1400
+1400;Leucocytes;1401
+1401;CRP;1402
+1402;Leucocytes;1403
+1403;LacticAcid;1404
+1404;Leucocytes;1405
+1405;LacticAcid;1406
+1406;CRP;1407
+1407;LacticAcid;1408
+1408;Leucocytes;1409
+1409;CRP;1410
+1410;CRP;1411
+1411;LacticAcid;1412
+1412;Leucocytes;1413
+1413;CRP;1414
+1414;Leucocytes;1415
+1415;LacticAcid;1416
+1416;CRP;1417
+1417;LacticAcid;1418
+1418;Leucocytes;1419
+1419;Admission IC;1420
+1420;CRP;1421
+1421;LacticAcid;1422
+1422;Leucocytes;1423
+1423;Leucocytes;1424
+1424;Leucocytes;1425
+1425;CRP;1426
+1426;LacticAcid;1427
+1427;LacticAcid;1428
+1428;CRP;1429
+1429;LacticAcid;1430
+1430;Leucocytes;1431
+1431;CRP;1432
+1432;Leucocytes;1433
+1433;LacticAcid;1434
+1434;CRP;1435
+1435;LacticAcid;1436
+1436;Leucocytes;1437
+1437;CRP;1438
+1438;LacticAcid;1439
+1439;Leucocytes;1440
+1440;LacticAcid;1441
+1441;CRP;1442
+1442;Leucocytes;1443
+1443;LacticAcid;1444
+1444;Leucocytes;1445
+1445;CRP;1446
+1446;CRP;1447
+1447;Leucocytes;1448
+1448;LacticAcid;1449
+1449;Leucocytes;1450
+1450;CRP;1451
+1451;LacticAcid;1452
+1452;CRP;1453
+1453;Leucocytes;1454
+1454;LacticAcid;1455
+1455;LacticAcid;1456
+1456;Leucocytes;1457
+1457;CRP;1458
+1458;LacticAcid;1459
+1459;Leucocytes;1460
+1460;CRP;1461
+1461;LacticAcid;1462
+1462;Leucocytes;1463
+1463;CRP;1464
+1464;LacticAcid;1465
+1465;CRP;1466
+1466;Leucocytes;1467
+1467;LacticAcid;1468
+1468;CRP;1469
+1469;Leucocytes;1470
+1470;Leucocytes;1471
+1471;CRP;1472
+1472;LacticAcid;1473
+1473;LacticAcid;1474
+1474;Leucocytes;1475
+1475;CRP;1476
+1476;CRP;1477
+1477;LacticAcid;1478
+1478;Leucocytes;1479
+1479;Leucocytes;1480
+1480;CRP;1481
+1481;LacticAcid;1482
+1482;LacticAcid;1483
+1483;CRP;1484
+1484;Leucocytes;1485
+1485;CRP;1486
+1486;LacticAcid;1487
+1487;Leucocytes;1488
+1488;CRP;1489
+1489;LacticAcid;1490
+1490;Leucocytes;1491
+1491;Leucocytes;1492
+1492;LacticAcid;1493
+1493;CRP;1494
+1494;Leucocytes;1495
+1495;LacticAcid;1496
+1496;CRP;1497
+1497;CRP;1498
+1498;LacticAcid;1499
+1499;Leucocytes;1500
+1500;Leucocytes;94
+1501;Admission NC;1742
+1501;Admission IC;1502
+1501;CRP;3156
+1502;CRP;1503
+1502;LacticAcid;2791
+1503;Leucocytes;1504
+1504;LacticAcid;1505
+1505;Leucocytes;1506
+1505;LacticAcid;2832
+1506;LacticAcid;1507
+1507;CRP;1508
+1508;CRP;1509
+1509;Leucocytes;1510
+1510;LacticAcid;1511
+1511;LacticAcid;1512
+1512;CRP;1513
+1513;Leucocytes;1514
+1514;Admission NC;1515
+1515;Leucocytes;1516
+1516;CRP;1517
+1517;CRP;1518
+1518;Leucocytes;1519
+1519;CRP;1520
+1520;Leucocytes;15
+1521;Leucocytes;1522
+1521;Release A;49
+1521;Release D;22
+1522;CRP;1523
+1522;Leucocytes;2433
+1522;Admission NC;1878
+1523;Release A;22
+1523;Leucocytes;1524
+1524;Leucocytes;1525
+1525;Leucocytes;1526
+1526;Leucocytes;1527
+1527;Leucocytes;1528
+1528;Leucocytes;1529
+1529;Leucocytes;244
+1530;CRP;2030
+1530;LacticAcid;1531
+1531;CRP;357
+1532;CRP;1533
+1533;LacticAcid;1534
+1534;Leucocytes;1535
+1535;LacticAcid;1536
+1536;Leucocytes;1537
+1537;LacticAcid;1538
+1538;CRP;1539
+1539;Leucocytes;1540
+1540;LacticAcid;1541
+1541;LacticAcid;1542
+1542;Leucocytes;1543
+1543;CRP;1544
+1544;LacticAcid;1545
+1545;Admission NC;1546
+1546;Leucocytes;1547
+1547;CRP;1548
+1548;CRP;1549
+1549;CRP;1550
+1550;CRP;1551
+1551;Leucocytes;1552
+1552;CRP;1553
+1553;Leucocytes;1554
+1554;CRP;1555
+1555;Leucocytes;1556
+1556;CRP;1557
+1557;Leucocytes;1558
+1558;CRP;426
+1559;CRP;1560
+1560;Leucocytes;1561
+1560;LacticAcid;1709
+1561;LacticAcid;882
+1562;Leucocytes;229
+1563;CRP;1564
+1563;Admission NC;1929
+1563;Leucocytes;2519
+1564;Leucocytes;1565
+1564;CRP;3405
+1565;CRP;1566
+1565;Release A;22
+1566;Release A;22
+1566;Leucocytes;82
+1566;CRP;21
+1567;Leucocytes;1568
+1567;CRP;2609
+1568;CRP;2295
+1569;IV Antibiotics;45
+1570;Admission NC;1571
+1570;Leucocytes;935
+1571;CRP;1572
+1572;Leucocytes;1573
+1573;CRP;1574
+1574;CRP;1575
+1575;Leucocytes;1576
+1576;Leucocytes;1577
+1577;Leucocytes;1578
+1578;CRP;1579
+1579;CRP;1580
+1580;Leucocytes;1581
+1581;CRP;1582
+1582;CRP;1583
+1583;Leucocytes;20
+1584;Leucocytes;1585
+1585;Leucocytes;1586
+1586;CRP;1587
+1587;CRP;1588
+1588;Leucocytes;1589
+1589;Leucocytes;1590
+1590;CRP;740
+1591;Leucocytes;2924
+1591;Release B;22
+1592;LacticAcid;1593
+1592;Leucocytes;363
+1593;Leucocytes;1594
+1594;IV Antibiotics;1595
+1595;Admission NC;1596
+1596;Leucocytes;1597
+1596;Admission NC;1634
+1597;Admission NC;1598
+1598;LacticAcid;1599
+1599;CRP;1600
+1600;Leucocytes;1601
+1601;LacticAcid;1602
+1602;Leucocytes;1603
+1603;CRP;1604
+1604;Leucocytes;1605
+1605;CRP;1606
+1606;LacticAcid;559
+1607;CRP;20
+1607;Admission NC;1608
+1607;Leucocytes;2662
+1607;Release A;199
+1608;Leucocytes;1609
+1608;CRP;20
+1609;CRP;1610
+1610;LacticAcid;1611
+1610;Leucocytes;1739
+1611;CRP;1612
+1612;Leucocytes;1613
+1613;Admission NC;1614
+1614;Leucocytes;1615
+1615;Admission IC;1616
+1616;CRP;1617
+1617;LacticAcid;1618
+1618;Leucocytes;1619
+1619;Leucocytes;1620
+1620;Leucocytes;1621
+1621;CRP;1622
+1622;LacticAcid;1623
+1623;Leucocytes;1624
+1624;Admission NC;1625
+1625;Leucocytes;1626
+1626;CRP;1627
+1627;Leucocytes;1628
+1628;Leucocytes;1629
+1629;Leucocytes;1630
+1630;Leucocytes;1631
+1631;CRP;1632
+1632;Leucocytes;249
+1633;Release A;22
+1633;Leucocytes;2914
+1634;Leucocytes;407
+1635;CRP;1636
+1636;CRP;21
+1636;Leucocytes;1637
+1637;Admission IC;1638
+1638;Leucocytes;1639
+1639;CRP;1640
+1640;LacticAcid;1641
+1641;Leucocytes;1642
+1642;Leucocytes;1643
+1643;Admission IC;1644
+1644;Leucocytes;1645
+1645;CRP;1646
+1646;LacticAcid;1647
+1647;Leucocytes;1648
+1648;Leucocytes;1649
+1649;Leucocytes;1650
+1650;LacticAcid;1651
+1651;CRP;1652
+1652;Leucocytes;1653
+1653;LacticAcid;1654
+1654;Leucocytes;423
+1655;Admission NC;1656
+1655;LacticAcid;3444
+1656;Leucocytes;1657
+1657;CRP;1658
+1658;IV Liquid;19
+1659;CRP;2218
+1660;CRP;22
+1661;CRP;610
+1661;Leucocytes;19
+1662;Admission NC;1663
+1663;CRP;1664
+1663;Admission NC;46
+1664;Leucocytes;1665
+1665;Release A;49
+1665;Leucocytes;1666
+1666;CRP;1667
+1667;Leucocytes;1668
+1668;CRP;2219
+1669;CRP;1670
+1670;Leucocytes;559
+1671;Release A;22
+1671;IV Antibiotics;1672
+1671;CRP;1075
+1672;IV Liquid;1673
+1673;CRP;1674
+1674;Leucocytes;1675
+1675;CRP;1676
+1676;Leucocytes;1677
+1677;CRP;1678
+1678;CRP;1679
+1679;Leucocytes;1680
+1680;Admission NC;1681
+1681;Admission IC;1682
+1682;LacticAcid;1683
+1683;Leucocytes;1684
+1684;CRP;1685
+1685;CRP;1686
+1686;Leucocytes;1687
+1687;LacticAcid;56
+1688;LacticAcid;1689
+1689;CRP;1690
+1690;Leucocytes;1691
+1691;CRP;1692
+1692;Leucocytes;1693
+1693;LacticAcid;1694
+1694;CRP;1695
+1695;Leucocytes;1696
+1696;LacticAcid;1697
+1697;Admission NC;269
+1698;Leucocytes;136
+1698;CRP;1699
+1698;Admission NC;19
+1698;Release A;22
+1698;LacticAcid;2330
+1699;Leucocytes;1700
+1699;CRP;1882
+1699;Release A;22
+1700;Leucocytes;1701
+1700;CRP;48
+1701;Leucocytes;1702
+1702;CRP;1703
+1703;Leucocytes;1704
+1704;CRP;1705
+1705;Leucocytes;918
+1706;CRP;1707
+1707;ER Triage;1708
+1708;ER Sepsis Triage;22
+1709;ER Sepsis Triage;1710
+1710;IV Antibiotics;1711
+1711;Admission NC;2101
+1712;Admission NC;1713
+1713;Admission IC;1714
+1713;Leucocytes;31
+1714;LacticAcid;1715
+1715;CRP;1716
+1716;Leucocytes;1717
+1717;LacticAcid;1718
+1718;CRP;1719
+1719;Leucocytes;1720
+1720;Leucocytes;1721
+1721;CRP;1722
+1722;LacticAcid;1723
+1723;CRP;1724
+1724;Leucocytes;1725
+1725;LacticAcid;1726
+1726;CRP;1727
+1727;LacticAcid;1728
+1728;Leucocytes;73
+1729;LacticAcid;1730
+1730;Leucocytes;1731
+1731;CRP;1732
+1732;LacticAcid;1733
+1733;Leucocytes;207
+1734;CRP;1735
+1735;Leucocytes;1736
+1736;CRP;1737
+1737;Leucocytes;1738
+1738;Leucocytes;1739
+1739;CRP;1740
+1740;Leucocytes;1741
+1741;CRP;38
+1742;CRP;3345
+1742;Admission NC;2022
+1742;Leucocytes;2035
+1742;Release A;22
+1743;Leucocytes;1744
+1744;Release A;22
+1744;CRP;87
+1745;Admission NC;1746
+1746;ER Sepsis Triage;1747
+1747;IV Antibiotics;21
+1748;IV Antibiotics;1749
+1749;LacticAcid;1750
+1750;Admission IC;1751
+1751;Leucocytes;1752
+1752;CRP;1753
+1753;Leucocytes;1754
+1754;LacticAcid;1755
+1755;Leucocytes;1756
+1756;CRP;1757
+1757;LacticAcid;724
+1758;LacticAcid;1759
+1759;Leucocytes;1760
+1760;LacticAcid;1761
+1761;CRP;1762
+1762;LacticAcid;1763
+1763;Leucocytes;1764
+1764;LacticAcid;1765
+1765;LacticAcid;1766
+1766;Leucocytes;1767
+1767;CRP;1768
+1768;LacticAcid;1769
+1769;LacticAcid;1770
+1770;CRP;1771
+1771;LacticAcid;1772
+1772;Leucocytes;620
+1773;Release A;199
+1773;CRP;1774
+1773;LacticAcid;1824
+1773;Admission NC;17
+1773;Leucocytes;2682
+1774;Leucocytes;1775
+1775;Leucocytes;1776
+1775;CRP;20
+1776;Leucocytes;1777
+1776;CRP;2320
+1777;CRP;1778
+1778;LacticAcid;1779
+1779;LacticAcid;598
+1780;CRP;1781
+1780;LacticAcid;3542
+1781;LacticAcid;1782
+1782;IV Antibiotics;1783
+1783;Admission NC;1784
+1784;Leucocytes;1785
+1784;Release A;49
+1785;CRP;1786
+1786;LacticAcid;232
+1787;Leucocytes;1788
+1788;LacticAcid;1789
+1788;Leucocytes;1857
+1788;Admission IC;2415
+1789;Leucocytes;1790
+1790;Leucocytes;1791
+1790;CRP;21
+1791;CRP;1254
+1792;Admission IC;1793
+1792;Release A;22
+1793;Leucocytes;1794
+1794;CRP;1795
+1795;LacticAcid;1796
+1796;Leucocytes;1797
+1797;LacticAcid;1798
+1798;CRP;1799
+1799;Leucocytes;1800
+1800;CRP;1801
+1801;LacticAcid;1802
+1802;Admission NC;15
+1803;Leucocytes;1804
+1804;CRP;2102
+1805;IV Antibiotics;1806
+1806;Admission NC;229
+1807;ER Sepsis Triage;1808
+1808;IV Liquid;2895
+1809;CRP;3366
+1810;Admission NC;323
+1811;Leucocytes;1812
+1812;CRP;1813
+1813;ER Sepsis Triage;1814
+1814;IV Antibiotics;56
+1815;CRP;1816
+1816;Leucocytes;1817
+1817;IV Antibiotics;1818
+1818;Admission NC;1819
+1819;CRP;1820
+1820;LacticAcid;1821
+1821;Leucocytes;1822
+1822;CRP;1823
+1823;Leucocytes;219
+1824;CRP;1825
+1825;Leucocytes;1826
+1826;CRP;1827
+1827;Leucocytes;1828
+1828;LacticAcid;1829
+1829;CRP;1830
+1830;Leucocytes;1831
+1831;LacticAcid;46
+1832;CRP;20
+1832;Release A;22
+1833;CRP;100
+1833;Release B;22
+1834;Admission NC;19
+1834;Leucocytes;1835
+1834;Release A;22
+1834;Release D;22
+1834;CRP;2742
+1834;LacticAcid;2600
+1835;CRP;1836
+1836;Admission NC;1837
+1837;Admission NC;1838
+1838;Leucocytes;1839
+1839;CRP;1840
+1840;Leucocytes;1841
+1841;CRP;1842
+1842;Leucocytes;1843
+1843;Leucocytes;1844
+1844;CRP;1845
+1845;CRP;1846
+1846;Leucocytes;1823
+1847;LacticAcid;1848
+1848;CRP;113
+1848;Leucocytes;1239
+1849;Leucocytes;1850
+1850;CRP;21
+1850;Release A;22
+1851;Leucocytes;1852
+1852;LacticAcid;1853
+1853;IV Liquid;1854
+1854;Admission NC;1855
+1855;CRP;1856
+1856;Leucocytes;56
+1857;CRP;1858
+1858;Leucocytes;1859
+1859;Leucocytes;1860
+1860;CRP;1861
+1861;CRP;1862
+1862;Leucocytes;1863
+1863;CRP;1864
+1864;Leucocytes;1865
+1865;Leucocytes;1866
+1866;Leucocytes;1867
+1867;CRP;598
+1868;Leucocytes;1869
+1868;CRP;3178
+1868;Admission NC;3195
+1869;Leucocytes;1870
+1870;CRP;219
+1871;Release A;22
+1871;CRP;46
+1872;Release A;22
+1872;CRP;1873
+1872;Admission NC;2186
+1873;Leucocytes;1874
+1874;Admission NC;1875
+1875;CRP;1876
+1876;LacticAcid;1877
+1877;Leucocytes;1878
+1878;Leucocytes;139
+1879;Leucocytes;1880
+1880;Leucocytes;1881
+1881;CRP;102
+1882;Leucocytes;1883
+1883;Leucocytes;1884
+1884;CRP;1885
+1885;Release A;1886
+1886;Return ER;1756
+1887;Release A;22
+1887;Leucocytes;1888
+1888;CRP;1889
+1888;Release C;22
+1889;Leucocytes;844
+1890;Leucocytes;1891
+1891;Release A;49
+1891;Admission NC;1669
+1892;LacticAcid;1893
+1892;Leucocytes;2658
+1893;Leucocytes;1894
+1894;LacticAcid;1895
+1895;LacticAcid;1896
+1896;CRP;1897
+1897;Leucocytes;1810
+1898;ER Sepsis Triage;1899
+1899;Admission NC;1900
+1900;Leucocytes;1308
+1901;Leucocytes;48
+1901;Admission NC;1902
+1902;CRP;1903
+1903;Leucocytes;1904
+1904;CRP;1905
+1905;Leucocytes;1229
+1906;Leucocytes;1907
+1907;ER Registration;1908
+1908;ER Triage;1909
+1909;ER Sepsis Triage;1910
+1910;IV Liquid;1911
+1911;IV Antibiotics;1912
+1912;Admission NC;1913
+1913;Leucocytes;1914
+1914;CRP;1915
+1915;CRP;1916
+1916;Leucocytes;950
+1917;Admission NC;21
+1918;CRP;1919
+1919;LacticAcid;1920
+1920;Admission IC;1921
+1921;Leucocytes;1922
+1922;LacticAcid;1923
+1923;Leucocytes;1924
+1924;LacticAcid;1604
+1925;Leucocytes;2745
+1925;CRP;1926
+1925;LacticAcid;2026
+1926;Leucocytes;1927
+1927;LacticAcid;1928
+1928;Admission NC;37
+1929;Leucocytes;1930
+1930;Leucocytes;1931
+1931;CRP;1932
+1932;Leucocytes;1933
+1933;CRP;1934
+1934;Admission IC;1935
+1935;Leucocytes;1936
+1936;CRP;1937
+1937;LacticAcid;1938
+1938;Leucocytes;1939
+1939;Leucocytes;1940
+1940;Leucocytes;1941
+1941;Leucocytes;1942
+1942;Leucocytes;1943
+1943;Leucocytes;1944
+1944;Leucocytes;1945
+1945;CRP;1946
+1946;LacticAcid;1947
+1947;Leucocytes;1948
+1948;Leucocytes;1949
+1949;Leucocytes;1950
+1950;Leucocytes;1951
+1951;Leucocytes;1952
+1952;Leucocytes;1953
+1953;Leucocytes;1954
+1954;Leucocytes;1955
+1955;LacticAcid;1956
+1956;CRP;1957
+1957;LacticAcid;1958
+1958;Leucocytes;1959
+1959;CRP;1960
+1960;Admission NC;1961
+1961;Leucocytes;1199
+1962;Leucocytes;1963
+1962;CRP;1336
+1962;Release A;22
+1963;Admission NC;1964
+1963;CRP;21
+1963;Release A;22
+1964;CRP;1965
+1965;Leucocytes;557
+1966;LacticAcid;1967
+1967;Leucocytes;1968
+1968;Admission IC;1969
+1969;LacticAcid;1970
+1970;Leucocytes;1971
+1971;CRP;1972
+1972;Leucocytes;1973
+1973;CRP;1974
+1974;LacticAcid;1975
+1975;Leucocytes;1976
+1976;CRP;1977
+1977;LacticAcid;1978
+1978;LacticAcid;1979
+1979;Leucocytes;1980
+1980;CRP;1981
+1981;CRP;1982
+1982;LacticAcid;1983
+1983;Leucocytes;1984
+1984;Leucocytes;1985
+1985;CRP;1986
+1986;LacticAcid;1987
+1987;Leucocytes;1988
+1988;CRP;1989
+1989;LacticAcid;1990
+1990;Admission NC;1991
+1991;Leucocytes;1992
+1992;Leucocytes;1993
+1993;CRP;1994
+1994;Leucocytes;1703
+1995;Leucocytes;1996
+1995;Release A;22
+1996;CRP;1997
+1997;Leucocytes;1998
+1998;Leucocytes;226
+1999;Admission NC;39
+1999;Leucocytes;2000
+2000;CRP;2001
+2001;Leucocytes;2002
+2002;CRP;2003
+2003;CRP;2004
+2004;Leucocytes;2005
+2005;CRP;2006
+2006;CRP;2007
+2007;Leucocytes;2008
+2008;CRP;2009
+2009;Leucocytes;2010
+2010;CRP;2011
+2011;Leucocytes;2012
+2012;CRP;2013
+2013;Leucocytes;2014
+2014;Leucocytes;2015
+2015;CRP;2016
+2016;CRP;2017
+2017;Leucocytes;2018
+2018;Leucocytes;2019
+2019;CRP;2020
+2020;CRP;2021
+2021;CRP;1297
+2022;CRP;3111
+2022;LacticAcid;2023
+2022;Leucocytes;31
+2023;Leucocytes;2024
+2024;CRP;1290
+2025;CRP;2754
+2025;Leucocytes;48
+2026;Leucocytes;2027
+2027;CRP;2028
+2028;Admission NC;2029
+2029;Admission NC;1198
+2030;CRP;20
+2030;Release A;49
+2030;Leucocytes;2724
+2030;Admission NC;19
+2031;CRP;2032
+2032;CRP;178
+2033;CRP;2034
+2034;Leucocytes;1582
+2035;CRP;2036
+2036;Leucocytes;2037
+2036;Release A;22
+2037;CRP;2038
+2037;Leucocytes;18
+2038;Release A;49
+2038;CRP;2039
+2039;Leucocytes;3470
+2040;CRP;2041
+2041;Leucocytes;2042
+2042;Admission NC;593
+2043;Leucocytes;2044
+2044;CRP;2045
+2045;IV Antibiotics;196
+2046;CRP;2047
+2047;Leucocytes;1832
+2048;LacticAcid;2049
+2048;CRP;2617
+2049;Leucocytes;2050
+2050;CRP;2051
+2051;Leucocytes;2052
+2052;CRP;2053
+2053;LacticAcid;2054
+2054;Leucocytes;2055
+2055;CRP;2056
+2056;LacticAcid;2057
+2057;CRP;2058
+2058;Leucocytes;2059
+2059;LacticAcid;2060
+2060;CRP;2061
+2061;Leucocytes;2062
+2062;LacticAcid;2063
+2063;LacticAcid;2064
+2064;Leucocytes;2065
+2065;CRP;2066
+2066;Leucocytes;2067
+2067;CRP;2068
+2068;LacticAcid;2069
+2069;Admission NC;2070
+2070;CRP;2071
+2071;Leucocytes;2072
+2072;CRP;2073
+2073;Leucocytes;1856
+2074;CRP;2075
+2075;Admission NC;2076
+2076;Leucocytes;2077
+2077;CRP;2078
+2078;Leucocytes;2079
+2079;CRP;844
+2080;CRP;2081
+2080;Release A;22
+2080;LacticAcid;609
+2081;Leucocytes;2082
+2082;Release A;22
+2082;CRP;83
+2083;CRP;2084
+2084;Leucocytes;934
+2085;Admission NC;2086
+2086;Leucocytes;2087
+2087;CRP;2088
+2088;Admission NC;2089
+2089;Admission IC;2090
+2090;LacticAcid;2091
+2091;CRP;2092
+2092;Leucocytes;2093
+2093;LacticAcid;2094
+2094;CRP;2095
+2095;Leucocytes;2096
+2096;Leucocytes;2097
+2097;LacticAcid;2098
+2098;CRP;2099
+2099;Admission NC;2100
+2100;Leucocytes;1208
+2101;Leucocytes;751
+2101;CRP;48
+2102;CRP;2103
+2103;Leucocytes;2104
+2104;Release C;22
+2104;CRP;20
+2105;CRP;2106
+2106;Release A;199
+2106;Leucocytes;47
+2106;CRP;83
+2107;Leucocytes;2108
+2107;CRP;20
+2107;Release A;49
+2108;CRP;2109
+2109;Release A;22
+2109;Admission NC;21
+2109;CRP;3233
+2110;CRP;2111
+2111;CRP;83
+2111;Leucocytes;1557
+2112;Admission NC;2113
+2113;Admission NC;843
+2114;Release A;22
+2114;Leucocytes;19
+2114;LacticAcid;244
+2115;Leucocytes;2116
+2116;CRP;21
+2116;Leucocytes;48
+2117;Leucocytes;1961
+2117;CRP;2598
+2118;CRP;2119
+2119;Leucocytes;1928
+2120;Leucocytes;47
+2120;Admission NC;2127
+2121;CRP;2122
+2122;Release A;22
+2122;IV Liquid;48
+2122;LacticAcid;2615
+2123;CRP;2124
+2123;Release A;22
+2124;Leucocytes;2933
+2124;CRP;20
+2124;Release B;22
+2125;LacticAcid;113
+2125;Leucocytes;2126
+2126;Admission NC;1739
+2127;CRP;2128
+2128;CRP;230
+2128;Leucocytes;48
+2129;Leucocytes;2610
+2129;Admission NC;2130
+2129;CRP;1000
+2129;Release A;22
+2130;Leucocytes;2131
+2131;CRP;2132
+2132;Leucocytes;2133
+2133;Leucocytes;2134
+2134;CRP;2135
+2135;Leucocytes;2136
+2136;CRP;2137
+2137;Leucocytes;2138
+2138;CRP;2139
+2139;CRP;2140
+2140;Leucocytes;2141
+2141;CRP;2142
+2142;Leucocytes;2143
+2143;CRP;2144
+2144;CRP;2145
+2145;Leucocytes;2146
+2146;CRP;2147
+2147;CRP;2148
+2148;CRP;2149
+2149;Leucocytes;2150
+2150;CRP;2151
+2151;CRP;2152
+2152;Leucocytes;2153
+2153;Leucocytes;100
+2154;Leucocytes;2155
+2155;CRP;2156
+2156;Release A;22
+2156;LacticAcid;598
+2157;Leucocytes;2158
+2158;Admission NC;2159
+2159;CRP;2160
+2160;Leucocytes;2161
+2161;Admission NC;2162
+2162;Admission IC;2163
+2163;Leucocytes;2164
+2164;LacticAcid;2165
+2165;CRP;2166
+2166;CRP;2167
+2167;LacticAcid;2168
+2168;Leucocytes;2169
+2169;Leucocytes;2170
+2170;Leucocytes;2171
+2171;LacticAcid;2172
+2172;CRP;2173
+2173;Admission NC;2174
+2174;Leucocytes;1297
+2175;CRP;2176
+2176;Leucocytes;2177
+2177;Leucocytes;2178
+2178;CRP;2179
+2179;CRP;2180
+2180;Leucocytes;2181
+2181;CRP;2182
+2182;CRP;2183
+2183;Leucocytes;2184
+2184;CRP;2185
+2185;CRP;187
+2186;LacticAcid;2187
+2187;Leucocytes;902
+2188;CRP;125
+2189;ER Triage;2190
+2190;ER Sepsis Triage;2191
+2191;IV Liquid;2192
+2191;IV Antibiotics;56
+2192;IV Antibiotics;2193
+2193;Admission NC;3144
+2194;CRP;2195
+2195;Leucocytes;243
+2196;LacticAcid;335
+2197;Leucocytes;15
+2197;Release A;49
+2198;CRP;1157
+2199;CRP;1728
+2199;Leucocytes;2921
+2200;CRP;20
+2200;IV Liquid;22
+2201;Release A;199
+2201;CRP;593
+2201;Leucocytes;3522
+2202;CRP;2203
+2203;LacticAcid;2204
+2204;ER Sepsis Triage;2205
+2205;IV Antibiotics;2206
+2206;Admission NC;2207
+2207;LacticAcid;2208
+2207;Admission NC;1878
+2207;CRP;3405
+2208;Leucocytes;2209
+2209;Admission NC;2210
+2210;Admission NC;2211
+2211;Leucocytes;2212
+2212;CRP;433
+2213;ER Sepsis Triage;2214
+2214;IV Liquid;2215
+2215;IV Antibiotics;2931
+2216;Admission NC;2217
+2217;Admission NC;17
+2218;Admission NC;2677
+2219;CRP;1670
+2219;Admission NC;82
+2220;IV Antibiotics;2221
+2221;ER Registration;2222
+2222;ER Triage;2223
+2223;LacticAcid;2224
+2224;CRP;2225
+2225;Leucocytes;2226
+2226;LacticAcid;723
+2227;CRP;2228
+2227;Leucocytes;2261
+2228;Leucocytes;2229
+2229;LacticAcid;2230
+2230;IV Antibiotics;207
+2231;CRP;47
+2231;Release A;49
+2231;Leucocytes;2755
+2232;Admission NC;739
+2233;Leucocytes;2234
+2234;CRP;2235
+2235;Leucocytes;2236
+2236;CRP;2237
+2237;CRP;2238
+2238;Leucocytes;2239
+2239;CRP;2240
+2240;Leucocytes;2241
+2241;CRP;2242
+2242;Leucocytes;2243
+2243;CRP;2244
+2244;CRP;2245
+2245;Leucocytes;2246
+2246;Leucocytes;2247
+2247;CRP;2248
+2248;Leucocytes;2249
+2249;CRP;2250
+2250;Admission NC;65
+2251;Leucocytes;2252
+2252;CRP;1928
+2253;CRP;2254
+2253;Admission NC;46
+2254;Leucocytes;2255
+2255;Leucocytes;2256
+2256;CRP;2257
+2257;Leucocytes;2258
+2258;Leucocytes;2259
+2259;Leucocytes;2260
+2260;Leucocytes;426
+2261;CRP;2262
+2262;LacticAcid;1569
+2263;Leucocytes;2264
+2264;LacticAcid;2265
+2265;IV Liquid;2266
+2266;IV Antibiotics;2267
+2267;Admission NC;1025
+2268;LacticAcid;2269
+2269;Leucocytes;2270
+2270;Admission IC;239
+2271;Leucocytes;40
+2271;CRP;20
+2272;CRP;2286
+2272;Leucocytes;31
+2273;CRP;2274
+2274;LacticAcid;2275
+2275;ER Sepsis Triage;2276
+2276;IV Liquid;2277
+2277;IV Antibiotics;73
+2278;Admission NC;21
+2278;Leucocytes;2279
+2279;CRP;2280
+2280;CRP;2281
+2281;Leucocytes;2282
+2282;CRP;2283
+2282;Release A;22
+2283;Admission NC;2284
+2284;Admission NC;2285
+2285;CRP;2217
+2286;CRP;83
+2286;Leucocytes;2913
+2287;Leucocytes;2288
+2288;LacticAcid;2289
+2289;IV Antibiotics;2290
+2290;IV Liquid;2291
+2291;Admission NC;2292
+2292;Leucocytes;2293
+2293;CRP;2294
+2294;Admission NC;101
+2295;IV Antibiotics;2296
+2296;Admission NC;2530
+2296;Admission IC;2297
+2297;LacticAcid;2298
+2298;Leucocytes;2299
+2299;LacticAcid;2300
+2300;CRP;207
+2301;CRP;2302
+2302;LacticAcid;2303
+2303;Leucocytes;2304
+2304;ER Registration;2305
+2305;Admission IC;2306
+2306;LacticAcid;2307
+2307;Leucocytes;2308
+2308;CRP;2309
+2309;CRP;2310
+2310;LacticAcid;2311
+2311;Leucocytes;2312
+2312;CRP;2313
+2313;Leucocytes;2314
+2314;LacticAcid;2315
+2315;Leucocytes;2316
+2316;LacticAcid;2317
+2317;CRP;2318
+2318;Leucocytes;2319
+2319;CRP;110
+2320;Admission NC;2321
+2321;Admission NC;2322
+2322;Admission NC;2323
+2323;CRP;2324
+2324;Leucocytes;2325
+2325;Admission NC;2326
+2326;Leucocytes;2327
+2327;Leucocytes;2328
+2328;CRP;2329
+2329;CRP;1062
+2330;CRP;2331
+2331;Leucocytes;1178
+2332;CRP;2333
+2332;Leucocytes;3540
+2333;Leucocytes;2334
+2334;IV Liquid;2335
+2335;IV Antibiotics;65
+2336;LacticAcid;2337
+2337;Leucocytes;2338
+2338;CRP;2339
+2339;LacticAcid;2340
+2340;Leucocytes;2341
+2341;CRP;2342
+2342;LacticAcid;2343
+2343;LacticAcid;2344
+2344;Leucocytes;2345
+2345;CRP;2346
+2346;LacticAcid;2347
+2347;Leucocytes;2348
+2348;CRP;2349
+2349;LacticAcid;2350
+2350;Leucocytes;2351
+2351;CRP;2352
+2352;LacticAcid;2353
+2353;Leucocytes;2354
+2354;CRP;2355
+2355;Leucocytes;2356
+2356;CRP;2357
+2357;LacticAcid;2358
+2358;LacticAcid;2359
+2359;Leucocytes;2360
+2360;CRP;2361
+2361;Leucocytes;2362
+2362;CRP;2363
+2363;LacticAcid;2364
+2364;Leucocytes;2365
+2365;CRP;2366
+2366;LacticAcid;2367
+2367;LacticAcid;2368
+2368;Leucocytes;2369
+2369;CRP;2370
+2370;CRP;2371
+2371;LacticAcid;2372
+2372;Leucocytes;2373
+2373;Leucocytes;2374
+2374;CRP;2375
+2375;LacticAcid;2376
+2376;CRP;2377
+2377;Leucocytes;2378
+2378;LacticAcid;2379
+2379;CRP;2380
+2380;LacticAcid;2381
+2381;Leucocytes;2382
+2382;Leucocytes;2383
+2383;CRP;2384
+2384;LacticAcid;2385
+2385;Leucocytes;2386
+2386;CRP;2387
+2387;LacticAcid;2388
+2388;LacticAcid;2389
+2389;Leucocytes;2390
+2390;CRP;2391
+2391;CRP;2392
+2392;LacticAcid;2393
+2393;Leucocytes;2394
+2394;Leucocytes;2395
+2395;CRP;2396
+2396;LacticAcid;2397
+2397;Leucocytes;2398
+2398;CRP;2399
+2399;LacticAcid;2400
+2400;CRP;2401
+2401;LacticAcid;2402
+2402;Leucocytes;2403
+2403;Leucocytes;2404
+2404;LacticAcid;2405
+2405;CRP;2406
+2406;LacticAcid;128
+2407;Release B;22
+2407;Leucocytes;2408
+2408;CRP;2409
+2409;Leucocytes;2410
+2410;CRP;2411
+2411;CRP;2412
+2412;Leucocytes;2413
+2413;CRP;2414
+2414;Leucocytes;1869
+2415;CRP;2416
+2416;LacticAcid;2417
+2417;Leucocytes;2418
+2418;Leucocytes;2419
+2419;LacticAcid;2420
+2420;CRP;2421
+2421;Admission NC;2422
+2422;CRP;2423
+2423;Leucocytes;2424
+2424;Admission NC;2425
+2425;CRP;2426
+2426;Leucocytes;2427
+2427;Leucocytes;2428
+2428;CRP;2429
+2429;CRP;2430
+2430;Leucocytes;2431
+2431;CRP;2432
+2432;Leucocytes;2433
+2433;CRP;1342
+2434;Admission NC;2435
+2435;Leucocytes;2436
+2436;Leucocytes;549
+2437;CRP;1877
+2437;Leucocytes;3442
+2438;Leucocytes;136
+2438;CRP;95
+2439;CRP;2440
+2440;Leucocytes;2441
+2441;IV Antibiotics;2442
+2442;Admission NC;2443
+2443;Admission NC;844
+2444;Leucocytes;2445
+2445;Release A;49
+2445;Leucocytes;46
+2446;ER Triage;2447
+2447;ER Sepsis Triage;2448
+2448;IV Liquid;2449
+2449;LacticAcid;2450
+2450;Leucocytes;2451
+2451;CRP;2452
+2452;IV Antibiotics;2453
+2453;Admission NC;2454
+2454;Admission IC;2455
+2455;Leucocytes;2456
+2456;LacticAcid;2457
+2457;CRP;2458
+2458;LacticAcid;864
+2459;Leucocytes;2460
+2459;Release A;49
+2460;Leucocytes;19
+2460;Admission NC;48
+2461;IV Liquid;2462
+2462;Admission NC;1802
+2463;Release B;22
+2463;Leucocytes;47
+2464;Admission NC;2465
+2465;Admission NC;2466
+2466;CRP;2467
+2467;Leucocytes;2468
+2468;CRP;2469
+2469;Leucocytes;1855
+2470;CRP;2471
+2471;Leucocytes;2472
+2472;CRP;2473
+2473;Leucocytes;2474
+2474;CRP;2194
+2475;IV Liquid;2476
+2476;IV Antibiotics;2477
+2477;CRP;2478
+2477;Admission NC;3342
+2478;Leucocytes;2479
+2479;LacticAcid;2480
+2480;Admission IC;2481
+2481;LacticAcid;2482
+2482;Leucocytes;2483
+2483;CRP;2484
+2484;LacticAcid;2485
+2485;LacticAcid;2486
+2486;LacticAcid;2487
+2487;Leucocytes;2488
+2488;CRP;2489
+2489;Admission NC;2490
+2490;Leucocytes;2491
+2491;CRP;2492
+2492;LacticAcid;2493
+2493;CRP;2494
+2494;Leucocytes;2495
+2495;Leucocytes;2496
+2496;CRP;2497
+2497;LacticAcid;2498
+2498;Admission NC;2499
+2499;Leucocytes;2500
+2500;CRP;2501
+2501;Leucocytes;2502
+2502;CRP;557
+2503;LacticAcid;2504
+2503;Admission NC;1740
+2504;LacticAcid;2505
+2505;Leucocytes;2506
+2506;LacticAcid;2507
+2507;CRP;2508
+2508;LacticAcid;2509
+2509;LacticAcid;2510
+2510;LacticAcid;2511
+2511;Leucocytes;2512
+2512;CRP;2513
+2513;LacticAcid;2514
+2514;Leucocytes;2515
+2515;CRP;2516
+2516;Admission NC;2517
+2517;Leucocytes;2518
+2518;CRP;1739
+2519;CRP;2520
+2520;Leucocytes;1198
+2520;CRP;21
+2521;ER Sepsis Triage;2522
+2522;IV Antibiotics;2523
+2523;Admission IC;2524
+2524;CRP;2525
+2525;LacticAcid;2526
+2526;Leucocytes;2527
+2527;Leucocytes;2528
+2528;CRP;2529
+2529;LacticAcid;2217
+2530;Leucocytes;47
+2530;CRP;2531
+2531;CRP;2532
+2531;Leucocytes;21
+2532;Leucocytes;2533
+2533;Admission NC;60
+2534;IV Liquid;2535
+2535;ER Registration;2536
+2536;ER Triage;2537
+2537;CRP;2538
+2538;Leucocytes;2539
+2539;LacticAcid;2540
+2540;Admission NC;2541
+2541;Admission NC;2542
+2542;CRP;2543
+2543;Leucocytes;2544
+2544;Admission NC;2545
+2545;Leucocytes;2546
+2546;CRP;2547
+2547;Leucocytes;2548
+2548;Admission NC;1199
+2549;CRP;2550
+2550;LacticAcid;2551
+2551;LacticAcid;2552
+2552;Leucocytes;2553
+2553;CRP;2554
+2554;Leucocytes;2555
+2555;CRP;2556
+2556;LacticAcid;2557
+2557;CRP;2558
+2558;LacticAcid;2559
+2559;Leucocytes;2560
+2560;CRP;2561
+2561;LacticAcid;2562
+2562;Leucocytes;2563
+2563;Leucocytes;2564
+2564;CRP;2565
+2565;LacticAcid;2566
+2566;CRP;2567
+2567;LacticAcid;2568
+2568;Leucocytes;2569
+2569;LacticAcid;2570
+2570;CRP;2571
+2571;Leucocytes;2572
+2572;CRP;2573
+2573;LacticAcid;2574
+2574;Leucocytes;2575
+2575;LacticAcid;2576
+2576;Leucocytes;2577
+2577;CRP;2578
+2578;LacticAcid;2579
+2579;Leucocytes;2580
+2580;CRP;2581
+2581;CRP;2582
+2582;Leucocytes;2583
+2583;LacticAcid;2584
+2584;LacticAcid;2585
+2585;CRP;2586
+2586;Leucocytes;2587
+2587;Leucocytes;2588
+2588;CRP;2589
+2589;LacticAcid;2590
+2590;Admission NC;2591
+2591;CRP;2592
+2592;Leucocytes;2593
+2593;Admission NC;2594
+2594;Admission NC;426
+2595;Admission NC;2596
+2596;Admission NC;2597
+2597;Leucocytes;917
+2598;Admission NC;597
+2599;CRP;22
+2600;Leucocytes;2601
+2601;CRP;2602
+2602;Leucocytes;2603
+2603;CRP;2604
+2604;Leucocytes;2605
+2605;CRP;1902
+2606;CRP;2607
+2607;IV Antibiotics;2608
+2608;Admission NC;544
+2608;Admission IC;2817
+2609;Leucocytes;335
+2610;CRP;2611
+2610;Leucocytes;3446
+2611;CRP;82
+2611;Leucocytes;39
+2611;Release A;49
+2611;LacticAcid;741
+2612;CRP;2613
+2613;Leucocytes;2614
+2614;CRP;21
+2614;Admission NC;1606
+2615;Admission NC;2616
+2616;IV Liquid;82
+2617;Leucocytes;2618
+2618;LacticAcid;2619
+2619;Leucocytes;2620
+2620;CRP;2621
+2621;LacticAcid;2216
+2622;Leucocytes;2623
+2623;Leucocytes;2624
+2624;Leucocytes;2625
+2625;Leucocytes;2626
+2626;Leucocytes;2627
+2627;Leucocytes;2628
+2628;Leucocytes;2629
+2629;Leucocytes;2630
+2630;CRP;2631
+2631;Leucocytes;2632
+2632;Leucocytes;2633
+2633;Leucocytes;2634
+2634;Leucocytes;1341
+2635;Leucocytes;2636
+2636;CRP;2637
+2636;Release A;22
+2637;Leucocytes;2638
+2638;CRP;46
+2638;Leucocytes;31
+2639;Leucocytes;2640
+2640;Leucocytes;47
+2640;Admission IC;2641
+2641;Leucocytes;2642
+2642;CRP;2643
+2643;LacticAcid;2644
+2644;Leucocytes;2645
+2645;CRP;2646
+2646;LacticAcid;2647
+2647;LacticAcid;2648
+2648;CRP;2649
+2649;Leucocytes;2650
+2650;Leucocytes;2651
+2651;CRP;2652
+2652;LacticAcid;2653
+2653;CRP;2654
+2654;LacticAcid;2655
+2655;Leucocytes;2656
+2656;LacticAcid;2657
+2657;CRP;401
+2658;LacticAcid;2659
+2659;Admission NC;2660
+2660;Admission NC;2661
+2661;Leucocytes;2185
+2662;CRP;2663
+2663;Release A;49
+2663;Leucocytes;39
+2664;CRP;2665
+2664;LacticAcid;2897
+2665;LacticAcid;2666
+2666;Leucocytes;2667
+2667;LacticAcid;982
+2668;IV Antibiotics;2669
+2669;ER Triage;2670
+2670;Leucocytes;2671
+2671;LacticAcid;2672
+2672;CRP;2533
+2673;CRP;2674
+2674;Admission NC;2675
+2675;CRP;2676
+2676;LacticAcid;1634
+2677;CRP;2678
+2677;Release A;22
+2678;Leucocytes;21
+2678;Release A;22
+2679;CRP;2680
+2679;Release A;49
+2680;Leucocytes;31
+2680;Release C;49
+2681;Leucocytes;3319
+2681;CRP;21
+2682;CRP;2683
+2682;Admission NC;2942
+2683;Admission NC;2684
+2683;CRP;2839
+2683;Leucocytes;31
+2683;Release A;49
+2684;Leucocytes;2031
+2685;Leucocytes;2686
+2686;LacticAcid;40
+2687;Leucocytes;2688
+2688;CRP;2689
+2689;LacticAcid;2690
+2690;CRP;2691
+2691;LacticAcid;2692
+2692;Leucocytes;2693
+2693;LacticAcid;2694
+2694;CRP;2695
+2695;Leucocytes;2696
+2696;LacticAcid;2697
+2697;Admission NC;2698
+2698;CRP;2699
+2699;Leucocytes;2700
+2700;Leucocytes;2701
+2701;CRP;2702
+2702;CRP;2703
+2703;Leucocytes;2194
+2704;Release B;22
+2704;Admission NC;40
+2705;Leucocytes;2706
+2706;CRP;2707
+2706;LacticAcid;2725
+2707;Leucocytes;2708
+2708;Release D;22
+2708;Release A;49
+2709;Release A;22
+2709;CRP;597
+2710;Admission IC;2711
+2711;LacticAcid;2712
+2712;Leucocytes;2713
+2713;CRP;2714
+2714;Leucocytes;2715
+2715;LacticAcid;2716
+2716;IV Liquid;2717
+2717;IV Antibiotics;2718
+2718;Leucocytes;2719
+2719;CRP;2720
+2720;LacticAcid;2721
+2721;LacticAcid;2722
+2722;Leucocytes;2723
+2723;CRP;2548
+2724;Release D;22
+2724;CRP;21
+2725;LacticAcid;2726
+2726;CRP;2727
+2727;Leucocytes;2728
+2728;Leucocytes;2729
+2729;CRP;2730
+2730;LacticAcid;1342
+2731;ER Sepsis Triage;2732
+2732;IV Liquid;2733
+2733;IV Antibiotics;2734
+2734;Leucocytes;2735
+2735;LacticAcid;2736
+2736;CRP;2737
+2737;CRP;2738
+2738;LacticAcid;2739
+2739;Leucocytes;60
+2740;CRP;2741
+2741;Leucocytes;21
+2741;Release A;49
+2742;Leucocytes;2743
+2743;CRP;2744
+2744;Leucocytes;21
+2744;CRP;250
+2745;LacticAcid;320
+2745;CRP;2746
+2746;LacticAcid;2112
+2747;CRP;2748
+2748;LacticAcid;2749
+2749;IV Antibiotics;2750
+2750;Admission IC;2751
+2751;Leucocytes;2752
+2752;CRP;2753
+2753;LacticAcid;2594
+2754;Release A;49
+2754;CRP;247
+2755;CRP;2756
+2755;Leucocytes;3455
+2756;Admission IC;2757
+2757;LacticAcid;2758
+2758;CRP;2759
+2759;Leucocytes;2760
+2760;LacticAcid;2761
+2761;Admission NC;2762
+2762;Admission NC;2763
+2763;CRP;2764
+2764;Leucocytes;2765
+2765;CRP;2076
+2766;Admission NC;741
+2766;CRP;2767
+2767;Leucocytes;2768
+2768;CRP;2769
+2769;Leucocytes;2770
+2770;CRP;2771
+2771;Leucocytes;2772
+2772;CRP;2773
+2773;CRP;2774
+2774;Leucocytes;2775
+2775;Release A;2776
+2776;Return ER;2777
+2777;CRP;383
+2778;Leucocytes;2779
+2779;Release A;199
+2779;CRP;941
+2779;Admission NC;21
+2780;CRP;2781
+2781;Release A;22
+2781;Admission NC;2782
+2781;CRP;48
+2782;IV Liquid;358
+2783;IV Liquid;2784
+2783;Admission NC;46
+2784;Admission NC;2785
+2785;CRP;1733
+2786;CRP;2787
+2787;LacticAcid;2788
+2788;ER Sepsis Triage;2789
+2789;IV Antibiotics;2790
+2790;Admission IC;2226
+2791;CRP;2792
+2792;Leucocytes;128
+2793;Admission NC;38
+2793;Leucocytes;2794
+2794;CRP;2795
+2795;Leucocytes;2796
+2796;CRP;2797
+2797;Admission NC;2798
+2798;Leucocytes;2799
+2799;CRP;2800
+2800;CRP;2801
+2801;Leucocytes;2661
+2802;LacticAcid;2803
+2803;Leucocytes;2804
+2804;IV Liquid;2805
+2805;IV Antibiotics;2806
+2806;Admission NC;2807
+2807;Leucocytes;2808
+2808;CRP;2809
+2809;Admission NC;2810
+2810;CRP;2811
+2811;Leucocytes;2812
+2812;Leucocytes;2813
+2813;Leucocytes;2814
+2814;CRP;2815
+2815;Leucocytes;2816
+2816;CRP;1335
+2817;Leucocytes;2818
+2817;LacticAcid;3196
+2818;CRP;2819
+2819;LacticAcid;2820
+2820;CRP;2821
+2821;LacticAcid;2822
+2822;Leucocytes;2823
+2823;Admission NC;2824
+2824;Leucocytes;2825
+2825;CRP;2826
+2826;Leucocytes;2827
+2827;CRP;2828
+2828;Leucocytes;2829
+2829;CRP;2830
+2830;Leucocytes;2831
+2831;CRP;609
+2832;Leucocytes;122
+2833;ER Registration;2834
+2834;ER Triage;2835
+2835;ER Sepsis Triage;2836
+2836;IV Antibiotics;125
+2837;Leucocytes;2838
+2838;Leucocytes;431
+2838;CRP;31
+2839;Leucocytes;2840
+2840;Leucocytes;2841
+2841;CRP;2842
+2842;Release A;2843
+2842;CRP;2801
+2843;Return ER;723
+2844;Release A;199
+2844;CRP;2845
+2845;Admission IC;2846
+2846;Leucocytes;2847
+2847;CRP;2848
+2848;LacticAcid;2849
+2849;Leucocytes;2850
+2850;LacticAcid;2851
+2851;Leucocytes;2852
+2852;CRP;2853
+2853;Leucocytes;2854
+2854;LacticAcid;2855
+2855;Leucocytes;2856
+2856;Leucocytes;2857
+2857;Leucocytes;2435
+2858;CRP;2859
+2859;LacticAcid;2860
+2860;Leucocytes;2861
+2861;Leucocytes;2862
+2862;Leucocytes;2863
+2863;Leucocytes;2864
+2864;Leucocytes;2865
+2865;CRP;2866
+2866;LacticAcid;2867
+2867;Leucocytes;2868
+2868;CRP;2869
+2869;LacticAcid;2870
+2870;LacticAcid;2871
+2871;CRP;2872
+2872;Leucocytes;2873
+2873;Admission NC;2874
+2874;Leucocytes;2875
+2875;CRP;2876
+2876;Leucocytes;2877
+2877;CRP;2878
+2878;Leucocytes;2879
+2879;CRP;2880
+2880;CRP;2881
+2881;Leucocytes;2882
+2882;Leucocytes;2883
+2883;CRP;2884
+2884;Leucocytes;2885
+2885;CRP;2886
+2886;CRP;2887
+2887;Leucocytes;2888
+2888;Leucocytes;2889
+2889;CRP;2890
+2890;Leucocytes;2891
+2891;CRP;1738
+2892;Leucocytes;2893
+2893;CRP;2894
+2894;Release A;49
+2894;CRP;1703
+2895;IV Antibiotics;2896
+2896;Release A;22
+2896;Admission NC;40
+2897;Release B;22
+2897;CRP;2898
+2898;Leucocytes;2899
+2899;CRP;2900
+2900;Leucocytes;302
+2901;CRP;139
+2902;CRP;2903
+2903;Leucocytes;2904
+2904;LacticAcid;2905
+2905;Admission NC;2906
+2906;Leucocytes;2907
+2907;LacticAcid;2908
+2908;Admission NC;2909
+2909;Leucocytes;2910
+2910;CRP;2911
+2911;Admission IC;2912
+2912;LacticAcid;101
+2913;Leucocytes;936
+2914;Leucocytes;1242
+2914;CRP;48
+2914;Release A;22
+2915;LacticAcid;2916
+2915;Leucocytes;3180
+2916;CRP;2917
+2917;LacticAcid;2918
+2918;Leucocytes;2919
+2919;LacticAcid;2920
+2920;CRP;2739
+2921;CRP;2922
+2922;Admission NC;2923
+2923;CRP;83
+2923;Release B;22
+2924;CRP;2925
+2925;CRP;83
+2925;Leucocytes;19
+2926;Leucocytes;2927
+2927;CRP;2928
+2928;LacticAcid;2929
+2929;CRP;2930
+2930;LacticAcid;299
+2931;Admission NC;2932
+2932;Admission NC;3517
+2932;Leucocytes;31
+2933;CRP;19
+2933;Leucocytes;2934
+2934;CRP;2935
+2935;CRP;2936
+2936;Leucocytes;1304
+2937;Leucocytes;125
+2938;CRP;2939
+2939;LacticAcid;2940
+2940;ER Sepsis Triage;2941
+2941;Admission NC;334
+2941;IV Antibiotics;22
+2942;CRP;2943
+2943;LacticAcid;2944
+2944;Leucocytes;2945
+2945;LacticAcid;2946
+2946;CRP;2947
+2947;Leucocytes;2948
+2948;LacticAcid;2949
+2949;Admission IC;2950
+2950;CRP;2951
+2951;LacticAcid;2952
+2952;Leucocytes;2953
+2953;CRP;2954
+2954;Leucocytes;2955
+2955;LacticAcid;2956
+2956;LacticAcid;2957
+2957;Leucocytes;2958
+2958;CRP;2959
+2959;CRP;2960
+2960;LacticAcid;2961
+2961;Leucocytes;2962
+2962;CRP;2963
+2963;Leucocytes;2964
+2964;LacticAcid;2965
+2965;Leucocytes;2966
+2966;CRP;2967
+2967;LacticAcid;2968
+2968;LacticAcid;2969
+2969;CRP;2970
+2970;Leucocytes;2971
+2971;LacticAcid;2972
+2972;Leucocytes;2973
+2973;CRP;2974
+2974;LacticAcid;2975
+2975;Leucocytes;2976
+2976;LacticAcid;2977
+2977;CRP;2978
+2978;Leucocytes;2979
+2979;LacticAcid;2980
+2980;CRP;2981
+2981;Leucocytes;2982
+2982;LacticAcid;2983
+2983;LacticAcid;2984
+2984;Leucocytes;2985
+2985;CRP;2986
+2986;Leucocytes;2987
+2987;LacticAcid;2988
+2988;CRP;2989
+2989;CRP;2990
+2990;LacticAcid;2991
+2991;Leucocytes;2992
+2992;CRP;2993
+2993;Leucocytes;2994
+2994;LacticAcid;2995
+2995;CRP;2996
+2996;Leucocytes;2997
+2997;LacticAcid;2998
+2998;Leucocytes;2999
+2999;LacticAcid;3000
+3000;CRP;3001
+3001;CRP;3002
+3002;Leucocytes;3003
+3003;LacticAcid;3004
+3004;CRP;3005
+3005;Leucocytes;3006
+3006;LacticAcid;3007
+3007;LacticAcid;3008
+3008;Leucocytes;3009
+3009;CRP;3010
+3010;Leucocytes;3011
+3011;CRP;3012
+3012;LacticAcid;3013
+3013;Leucocytes;3014
+3014;LacticAcid;3015
+3015;CRP;3016
+3016;CRP;3017
+3017;LacticAcid;3018
+3018;Leucocytes;3019
+3019;Leucocytes;3020
+3020;CRP;3021
+3021;LacticAcid;3022
+3022;Leucocytes;3023
+3023;CRP;3024
+3024;LacticAcid;3025
+3025;Leucocytes;3026
+3026;LacticAcid;3027
+3027;CRP;3028
+3028;Admission NC;3029
+3029;Leucocytes;3030
+3030;CRP;3031
+3031;Leucocytes;3032
+3032;CRP;3033
+3033;CRP;3034
+3034;Leucocytes;3035
+3035;Leucocytes;3036
+3036;CRP;3037
+3037;Leucocytes;3038
+3038;CRP;3039
+3039;CRP;3040
+3040;Leucocytes;3041
+3041;Leucocytes;3042
+3042;CRP;3043
+3043;CRP;3044
+3044;Leucocytes;3045
+3045;Leucocytes;3046
+3046;CRP;3047
+3047;CRP;3048
+3048;Leucocytes;3049
+3049;CRP;3050
+3050;Leucocytes;3051
+3051;Leucocytes;3052
+3052;CRP;3053
+3053;Leucocytes;3054
+3054;CRP;3055
+3055;Leucocytes;3056
+3056;Leucocytes;3057
+3057;CRP;3058
+3058;Admission NC;3059
+3059;CRP;3060
+3060;Leucocytes;3061
+3061;Leucocytes;3062
+3062;CRP;3063
+3063;Leucocytes;3064
+3064;CRP;3065
+3065;Leucocytes;3066
+3066;CRP;3067
+3067;CRP;3068
+3068;Leucocytes;3069
+3069;CRP;3070
+3070;Leucocytes;3071
+3071;CRP;3072
+3072;Leucocytes;3073
+3073;Leucocytes;3074
+3074;CRP;3075
+3075;CRP;3076
+3076;Leucocytes;3077
+3077;Leucocytes;3078
+3078;CRP;3079
+3079;CRP;3080
+3080;Leucocytes;3081
+3081;Leucocytes;3082
+3082;CRP;3083
+3083;Leucocytes;3084
+3084;CRP;3085
+3085;CRP;3086
+3086;Leucocytes;3087
+3087;Leucocytes;3088
+3088;Leucocytes;3089
+3089;CRP;3090
+3090;Leucocytes;3091
+3091;CRP;3092
+3092;Leucocytes;3093
+3093;CRP;3094
+3094;CRP;3095
+3095;Leucocytes;3096
+3096;CRP;3097
+3097;Leucocytes;3098
+3098;Leucocytes;3099
+3099;CRP;3100
+3100;Leucocytes;3101
+3101;CRP;3102
+3102;CRP;3103
+3103;Leucocytes;3104
+3104;Leucocytes;3105
+3105;CRP;3106
+3106;Leucocytes;3107
+3107;CRP;3108
+3108;CRP;3109
+3109;Leucocytes;3110
+3110;Leucocytes;2032
+3111;Leucocytes;1871
+3112;Leucocytes;3113
+3113;CRP;3114
+3114;LacticAcid;3115
+3115;LacticAcid;3116
+3116;LacticAcid;3117
+3117;Leucocytes;599
+3118;Leucocytes;3119
+3119;CRP;3120
+3120;LacticAcid;3121
+3121;CRP;3122
+3122;Leucocytes;898
+3123;CRP;3124
+3124;Leucocytes;3125
+3125;LacticAcid;3126
+3126;LacticAcid;3127
+3127;Leucocytes;3128
+3128;CRP;3129
+3129;Leucocytes;3130
+3130;LacticAcid;3131
+3131;CRP;3132
+3132;CRP;3133
+3133;Leucocytes;3134
+3134;LacticAcid;3135
+3135;LacticAcid;3136
+3136;CRP;3137
+3137;Leucocytes;3138
+3138;Admission NC;3139
+3139;Leucocytes;3140
+3140;CRP;3141
+3141;Admission NC;3142
+3142;Leucocytes;3143
+3143;CRP;249
+3144;CRP;3145
+3145;Leucocytes;3146
+3146;CRP;3179
+3146;Leucocytes;47
+3146;Release A;22
+3147;CRP;3148
+3148;Leucocytes;3149
+3148;Release A;22
+3149;CRP;3150
+3150;Release A;49
+3150;Leucocytes;3151
+3151;CRP;3152
+3152;Leucocytes;3153
+3153;CRP;3154
+3154;Leucocytes;3155
+3155;CRP;1247
+3156;Leucocytes;767
+3157;CRP;3158
+3158;Admission NC;46
+3158;Release A;49
+3159;CRP;3160
+3159;LacticAcid;3221
+3160;Leucocytes;3161
+3161;LacticAcid;3162
+3162;LacticAcid;3163
+3163;Leucocytes;3164
+3164;CRP;3165
+3165;LacticAcid;3166
+3166;Leucocytes;3167
+3167;CRP;3168
+3168;Leucocytes;3169
+3169;CRP;3170
+3170;LacticAcid;3171
+3171;Leucocytes;3172
+3172;CRP;3173
+3173;LacticAcid;1806
+3174;CRP;3175
+3175;LacticAcid;2276
+3176;CRP;3177
+3177;CRP;178
+3177;Release A;22
+3178;Leucocytes;232
+3178;CRP;21
+3179;Release A;22
+3179;Leucocytes;40
+3180;LacticAcid;3181
+3181;CRP;3182
+3182;Admission NC;1582
+3183;CRP;3184
+3184;Leucocytes;3185
+3185;LacticAcid;3186
+3186;CRP;3187
+3187;Leucocytes;3188
+3188;LacticAcid;3189
+3189;CRP;3190
+3190;LacticAcid;3191
+3191;Leucocytes;3192
+3192;Leucocytes;3193
+3193;CRP;3194
+3194;LacticAcid;278
+3195;Leucocytes;1961
+3196;CRP;3197
+3197;Leucocytes;3198
+3198;Leucocytes;3199
+3199;CRP;3200
+3200;LacticAcid;3201
+3201;Leucocytes;3202
+3202;LacticAcid;3203
+3203;CRP;3204
+3204;CRP;3205
+3205;Leucocytes;3206
+3206;LacticAcid;3207
+3207;CRP;3208
+3208;LacticAcid;3209
+3209;Leucocytes;3210
+3210;LacticAcid;3211
+3211;Leucocytes;3212
+3212;CRP;3213
+3213;CRP;3214
+3214;Leucocytes;3215
+3215;LacticAcid;2029
+3216;Leucocytes;3217
+3217;CRP;3218
+3218;Admission NC;1304
+3219;Leucocytes;47
+3219;CRP;83
+3220;CRP;334
+3221;Leucocytes;3222
+3222;CRP;3223
+3223;LacticAcid;3224
+3224;Leucocytes;3225
+3225;CRP;3226
+3226;LacticAcid;3227
+3227;Admission NC;3228
+3228;Leucocytes;3229
+3229;CRP;3230
+3230;Leucocytes;3231
+3231;CRP;3232
+3232;CRP;1889
+3233;CRP;3234
+3234;Leucocytes;3235
+3235;Leucocytes;3236
+3236;CRP;3237
+3237;Leucocytes;3238
+3238;Admission IC;3239
+3239;Leucocytes;3240
+3240;CRP;3241
+3241;LacticAcid;3242
+3242;Leucocytes;3243
+3243;Leucocytes;3244
+3244;Leucocytes;3245
+3245;LacticAcid;3246
+3246;Leucocytes;3247
+3247;CRP;3248
+3248;Leucocytes;3249
+3249;Leucocytes;3250
+3250;Leucocytes;3251
+3251;Leucocytes;275
+3252;Leucocytes;3253
+3252;Release A;49
+3252;CRP;38
+3253;CRP;3254
+3254;Release A;22
+3254;CRP;1529
+3255;LacticAcid;3256
+3256;Leucocytes;3257
+3257;LacticAcid;3258
+3258;LacticAcid;3259
+3259;CRP;3260
+3260;Leucocytes;3261
+3261;Leucocytes;3262
+3262;CRP;3263
+3263;LacticAcid;3264
+3264;Leucocytes;3265
+3265;LacticAcid;3266
+3266;CRP;3267
+3267;LacticAcid;3268
+3268;Leucocytes;3269
+3269;CRP;3270
+3270;Admission NC;3271
+3271;Leucocytes;3272
+3272;CRP;3273
+3273;Leucocytes;1562
+3274;CRP;3275
+3275;Leucocytes;3276
+3276;Admission IC;3277
+3277;Leucocytes;3278
+3278;CRP;3279
+3279;LacticAcid;3280
+3280;Admission NC;3281
+3281;CRP;3282
+3282;Leucocytes;3283
+3283;Leucocytes;3284
+3284;CRP;3285
+3285;Leucocytes;3286
+3286;CRP;3287
+3287;Leucocytes;3288
+3288;CRP;3289
+3289;Leucocytes;3290
+3290;CRP;3291
+3291;Leucocytes;3292
+3292;CRP;3293
+3293;Leucocytes;3294
+3294;CRP;3295
+3295;Leucocytes;3296
+3296;CRP;3297
+3297;Leucocytes;3298
+3298;CRP;3299
+3299;CRP;3300
+3300;Leucocytes;3301
+3301;Leucocytes;3302
+3302;CRP;3303
+3303;CRP;3304
+3304;Leucocytes;3305
+3305;Leucocytes;3306
+3306;CRP;3307
+3307;CRP;3308
+3308;Leucocytes;112
+3309;Leucocytes;3310
+3310;CRP;3311
+3311;CRP;3312
+3312;Leucocytes;3313
+3313;Release A;22
+3313;Admission NC;196
+3314;CRP;3315
+3315;Leucocytes;3316
+3316;Admission NC;598
+3317;Leucocytes;3318
+3318;Release A;22
+3318;Admission NC;19
+3319;Leucocytes;3320
+3320;CRP;3321
+3321;CRP;3322
+3322;Leucocytes;3323
+3323;Leucocytes;3324
+3324;Leucocytes;3325
+3325;Leucocytes;3326
+3326;Leucocytes;3327
+3327;CRP;3328
+3328;Leucocytes;2033
+3329;LacticAcid;3330
+3330;Leucocytes;3331
+3331;IV Antibiotics;3332
+3332;Admission NC;3333
+3333;CRP;3334
+3334;CRP;1900
+3335;ER Triage;3336
+3336;ER Sepsis Triage;2230
+3337;Leucocytes;47
+3337;CRP;3338
+3338;CRP;3339
+3339;Leucocytes;3340
+3340;CRP;3341
+3341;Leucocytes;1740
+3342;Leucocytes;3343
+3343;CRP;3344
+3344;Admission NC;232
+3345;Release A;22
+3345;Leucocytes;40
+3345;LacticAcid;3346
+3346;Leucocytes;3347
+3347;Leucocytes;3348
+3348;Leucocytes;3349
+3349;CRP;3350
+3350;LacticAcid;21
+3351;CRP;3352
+3352;CRP;3353
+3353;Leucocytes;3354
+3354;Leucocytes;2801
+3355;CRP;3356
+3356;CRP;3357
+3357;Leucocytes;3358
+3358;Leucocytes;3359
+3359;CRP;3360
+3360;Leucocytes;3361
+3361;CRP;3362
+3362;Leucocytes;3363
+3363;CRP;3364
+3364;Release A;3365
+3365;Leucocytes;49
+3366;Admission NC;323
+3366;Admission IC;3367
+3367;CRP;3368
+3368;LacticAcid;3369
+3369;Leucocytes;3370
+3370;CRP;3371
+3371;LacticAcid;3372
+3372;Leucocytes;3373
+3373;Leucocytes;3374
+3374;CRP;3375
+3375;LacticAcid;3376
+3376;Leucocytes;3377
+3377;LacticAcid;3378
+3378;CRP;3379
+3379;LacticAcid;3380
+3380;CRP;3381
+3381;Leucocytes;3382
+3382;CRP;3383
+3383;Leucocytes;3384
+3384;LacticAcid;3385
+3385;LacticAcid;3386
+3386;Leucocytes;3387
+3387;CRP;3388
+3388;LacticAcid;3389
+3389;CRP;3390
+3390;Leucocytes;3391
+3391;Leucocytes;3392
+3392;CRP;3393
+3393;LacticAcid;3394
+3394;Leucocytes;3395
+3395;CRP;3396
+3396;LacticAcid;3397
+3397;CRP;3398
+3398;Leucocytes;3399
+3399;LacticAcid;402
+3400;Leucocytes;3401
+3401;LacticAcid;1813
+3402;Admission NC;3316
+3403;CRP;22
+3403;Admission NC;82
+3404;IV Liquid;40
+3405;Leucocytes;1634
+3406;LacticAcid;3407
+3407;Leucocytes;3408
+3408;CRP;3409
+3409;LacticAcid;3410
+3410;CRP;3411
+3411;Leucocytes;65
+3412;Leucocytes;3413
+3413;CRP;3414
+3414;Leucocytes;3415
+3414;Release A;22
+3415;CRP;3416
+3416;Leucocytes;3417
+3417;CRP;3418
+3418;Leucocytes;3419
+3419;CRP;3420
+3420;Leucocytes;3421
+3421;Leucocytes;3422
+3422;Leucocytes;3423
+3423;Leucocytes;3424
+3424;Leucocytes;3425
+3425;Leucocytes;3426
+3426;Leucocytes;3427
+3427;Leucocytes;3428
+3428;Leucocytes;3429
+3429;CRP;3430
+3430;Leucocytes;3431
+3431;Leucocytes;3432
+3432;Leucocytes;3433
+3433;Leucocytes;3434
+3434;Leucocytes;3435
+3435;Leucocytes;2195
+3436;LacticAcid;3437
+3437;CRP;3438
+3438;Admission NC;3439
+3439;Leucocytes;3440
+3440;LacticAcid;323
+3441;Release A;49
+3441;CRP;844
+3441;Leucocytes;31
+3442;CRP;3443
+3443;Admission NC;3435
+3444;Admission NC;3445
+3445;Release A;49
+3445;Admission NC;229
+3446;CRP;3447
+3447;Leucocytes;3448
+3448;CRP;3449
+3449;Leucocytes;3450
+3450;CRP;3451
+3451;CRP;3452
+3452;Leucocytes;3453
+3453;CRP;3454
+3454;CRP;1529
+3455;CRP;3456
+3456;Leucocytes;3457
+3457;CRP;3458
+3458;Leucocytes;3459
+3459;CRP;1867
+3460;CRP;3461
+3461;Leucocytes;3462
+3462;CRP;3463
+3463;Release A;22
+3463;CRP;3464
+3464;Leucocytes;3465
+3465;Leucocytes;3466
+3466;CRP;3467
+3467;Leucocytes;3468
+3468;CRP;3469
+3469;CRP;1228
+3470;Leucocytes;1226
+3470;CRP;3471
+3471;Leucocytes;1298
+3472;CRP;3473
+3473;Leucocytes;3474
+3474;LacticAcid;3475
+3475;Leucocytes;3476
+3476;LacticAcid;3477
+3477;CRP;3478
+3478;LacticAcid;3479
+3479;CRP;3480
+3480;Leucocytes;3481
+3481;Leucocytes;3482
+3482;CRP;3483
+3483;LacticAcid;3484
+3484;CRP;3485
+3485;Leucocytes;3486
+3486;LacticAcid;3487
+3487;Leucocytes;3488
+3488;CRP;3489
+3489;LacticAcid;3490
+3490;Leucocytes;3491
+3491;CRP;3492
+3492;LacticAcid;3493
+3493;Leucocytes;3494
+3494;CRP;3495
+3495;LacticAcid;3496
+3496;LacticAcid;3497
+3497;CRP;3498
+3498;Leucocytes;3499
+3499;Admission NC;3500
+3500;Leucocytes;3501
+3501;CRP;3502
+3502;LacticAcid;3503
+3503;Leucocytes;3504
+3504;Leucocytes;3505
+3505;CRP;3506
+3506;LacticAcid;3507
+3507;CRP;3508
+3508;Leucocytes;3509
+3509;CRP;3510
+3510;Admission NC;3511
+3511;CRP;3512
+3512;Leucocytes;3513
+3513;CRP;3514
+3514;Leucocytes;3515
+3515;CRP;3516
+3516;Leucocytes;3154
+3517;Leucocytes;18
+3517;Admission NC;48
+3518;IV Antibiotics;3519
+3519;CRP;3520
+3520;Leucocytes;3521
+3520;LacticAcid;3528
+3521;LacticAcid;863
+3522;CRP;3523
+3523;Admission NC;3524
+3524;Leucocytes;3525
+3525;CRP;3526
+3526;Leucocytes;3527
+3527;CRP;128
+3528;Leucocytes;3529
+3529;Admission IC;3530
+3530;LacticAcid;3531
+3531;Leucocytes;3532
+3532;CRP;3533
+3533;LacticAcid;3534
+3534;Leucocytes;3535
+3535;CRP;3536
+3536;LacticAcid;3537
+3537;Leucocytes;3538
+3538;CRP;3539
+3539;LacticAcid;3344
+3540;CRP;3541
+3541;IV Liquid;2230
+3542;CRP;3543
+3543;IV Antibiotics;3544
+3544;LacticAcid;3545
+3545;Admission IC;3546
+3546;LacticAcid;3547
+3547;CRP;3548
+3548;LacticAcid;3549
+3549;Leucocytes;3550
+3550;LacticAcid;3551
+3551;Leucocytes;3552
+3552;CRP;3553
+3553;Leucocytes;3554
+3554;LacticAcid;3555
+3555;LacticAcid;3556
+3556;CRP;3557
+3557;Leucocytes;3558
+3558;Leucocytes;3559
+3559;LacticAcid;3560
+3560;CRP;3561
+3561;Leucocytes;3562
+3562;CRP;3563
+3563;LacticAcid;3564
+3564;Leucocytes;3565
+3565;CRP;3566
+3566;LacticAcid;3567
+3567;Leucocytes;3568
+3568;CRP;3569
+3569;LacticAcid;3570
+3570;Admission NC;3571
+3571;Leucocytes;3572
+3572;CRP;3573
+3573;Leucocytes;3574
+3574;CRP;3575
+3575;CRP;3576
+3576;Leucocytes;3577
+3577;CRP;3578
+3578;Leucocytes;3579
+3579;Leucocytes;3580
+3580;CRP;3581
+3581;Leucocytes;3582
+3582;CRP;3583
+3583;Leucocytes;3584
+3584;CRP;3585
+3585;Leucocytes;3586
+3586;CRP;3587
+3587;CRP;3588
+3588;Leucocytes;3589
+3589;Leucocytes;3590
+3590;CRP;3591
+3591;Leucocytes;3592
+3592;Leucocytes;3593
+3593;CRP;3594
+3594;Leucocytes;3595
+3595;CRP;3596
+3596;Admission IC;3597
+3597;LacticAcid;1670
+3598;CRP;3599
+3599;CRP;1189
+3600;CRP;3601
+3601;Leucocytes;3602
+3602;LacticAcid;3603
+3603;CRP;3604
+3604;LacticAcid;3605
+3605;Leucocytes;3606
+3606;Admission IC;3607
+3607;Leucocytes;3608
+3608;CRP;3609
+3609;LacticAcid;3610
+3610;Leucocytes;3611
+3611;Leucocytes;3612
+3612;CRP;1687
+3613;CRP;3614
+3614;Leucocytes;3615
+3615;LacticAcid;3616
+3616;LacticAcid;3617
+3617;Leucocytes;3618
+3618;Leucocytes;3619
+3619;CRP;3620
+3620;LacticAcid;3621
+3621;Leucocytes;3622
+3622;CRP;3623
+3623;LacticAcid;3624
+3624;LacticAcid;3625
+3625;Leucocytes;3626
+3626;CRP;3627
+3627;Admission NC;3628
+3628;CRP;2100
